@@ -1,0 +1,3458 @@
+[
+  {
+    "id": 1,
+    "theme": "thema_1",
+    "question": "Iemand die je niet kent.",
+    "options": [
+      "driemaal is scheepsrecht",
+      "de onbekende",
+      "de kans",
+      "met opzet"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 2,
+    "theme": "thema_1",
+    "question": "Iemand die je kent.",
+    "options": [
+      "de bekende",
+      "de denkwolk",
+      "het talent",
+      "alsmaar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "theme": "thema_1",
+    "question": "De vriend met wie je het meest speelt.",
+    "options": [
+      "de held",
+      "de boezemvriend",
+      "optrekken met (iemand)",
+      "het gevaar"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "theme": "thema_1",
+    "question": "Iemand die een ander helpt als er iets ergs gebeurt.",
+    "options": [
+      "de ramp",
+      "de redder",
+      "het beeldscherm",
+      "hevig"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 5,
+    "theme": "thema_1",
+    "question": "Als er iets ergs kan gebeuren.",
+    "options": [
+      "het gevaar",
+      "de onbekende",
+      "het talent",
+      "de redder"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "theme": "thema_1",
+    "question": "Als er niets ergs kan gebeuren.",
+    "options": [
+      "met opzet",
+      "het bewijs",
+      "de veiligheid",
+      "de laptop"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 7,
+    "theme": "thema_1",
+    "question": "Iemand die zielig is.",
+    "options": [
+      "het bewijs",
+      "de stakker",
+      "de boezemvriend",
+      "de handtekening"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "theme": "thema_1",
+    "question": "Als je vlucht, ga je snel weg omdat je bang bent. ",
+    "options": [
+      "de tekstballon",
+      "alsmaar",
+      "haten",
+      "vluchten"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 9,
+    "theme": "thema_1",
+    "question": "Deel van de boom waar de takken aan vastzitten.",
+    "options": [
+      "het gevaar",
+      "de stam",
+      "de laptop",
+      "het praatje"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 10,
+    "theme": "thema_1",
+    "question": "Een groot ongeluk.",
+    "options": [
+      "de held",
+      "de redder",
+      "de ramp",
+      "met opzet"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 11,
+    "theme": "thema_1",
+    "question": "Je naam op je eigen manier geschreven.",
+    "options": [
+      "de boezemvriend",
+      "de veiligheid",
+      "een kleur krijgen",
+      "de handtekening"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 12,
+    "theme": "thema_1",
+    "question": "Een goede vriend.",
+    "options": [
+      "de denkwolk",
+      "de boezemvriend",
+      "de kameraad",
+      "dapper"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 13,
+    "theme": "thema_1",
+    "question": "Iemand die gevaarlijke dingen doet om anderen te helpen.",
+    "options": [
+      "de e-mail",
+      "boffen",
+      "de kameraad",
+      "de held"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 14,
+    "theme": "thema_1",
+    "question": "Als je bij gevaar veel durft en niet bang bent.",
+    "options": [
+      "de laptop",
+      "de kans",
+      "de held",
+      "dapper"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 15,
+    "theme": "thema_1",
+    "question": "Als je niet dapper bent en niet veel durft.",
+    "options": [
+      "dapper",
+      "het talent",
+      "laf",
+      "de e-mail"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 16,
+    "theme": "thema_1",
+    "question": "Anderen noemen je een lafaard als ze vinden dat je je laf gedraagt.",
+    "options": [
+      "de tekstballon",
+      "laf",
+      "de lafaard",
+      "alsmaar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 17,
+    "theme": "thema_1",
+    "question": "Verliefd zijn op.",
+    "options": [
+      "haten",
+      "de onbekende",
+      "optrekken met (iemand)",
+      "een oogje hebben op"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 18,
+    "theme": "thema_1",
+    "question": "Blozen.",
+    "options": [
+      "een kleur krijgen",
+      "optrekken met (iemand)",
+      "laf",
+      "de vijand"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "theme": "thema_1",
+    "question": "Erg of zeer.",
+    "options": [
+      "de laptop",
+      "de stakker",
+      "hevig",
+      "het gevaar"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 20,
+    "theme": "thema_1",
+    "question": "De hele tijd.",
+    "options": [
+      "de laptop",
+      "de vijand",
+      "de tekstballon",
+      "alsmaar"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 21,
+    "theme": "thema_1",
+    "question": "Expres.",
+    "options": [
+      "het bewijs",
+      "met opzet",
+      "alsmaar",
+      "de vijand"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 22,
+    "theme": "thema_1",
+    "question": "Geluk hebben.",
+    "options": [
+      "de stakker",
+      "de lafaard",
+      "hevig",
+      "boffen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 23,
+    "theme": "thema_1",
+    "question": "Zonder veel moeite iets goed kunnen.",
+    "options": [
+      "laf",
+      "het gevaar",
+      "het talent",
+      "dapper"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 24,
+    "theme": "thema_1",
+    "question": "Hiermee laat je zien dat iets echt waar is.",
+    "options": [
+      "het bewijs",
+      "het gevaar",
+      "de boezemvriend",
+      "de tekstballon"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 25,
+    "theme": "thema_1",
+    "question": "Als je met iemand niets te maken wilt hebben.",
+    "options": [
+      "een oogje hebben op",
+      "haten",
+      "de denkwolk",
+      "de vijand"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "theme": "thema_1",
+    "question": "Iemand die je haat.",
+    "options": [
+      "de handtekening",
+      "de redder",
+      "de vijand",
+      "haten"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 27,
+    "theme": "thema_1",
+    "question": "Samen met iemand leuke dingen doen.",
+    "options": [
+      "de handtekening",
+      "de ramp",
+      "optrekken met (iemand)",
+      "met opzet"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 28,
+    "theme": "thema_1",
+    "question": "Een brief die je op de computer schrijft en verstuurt.",
+    "options": [
+      "dapper",
+      "de kans",
+      "de e-mail",
+      "de lafaard"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 29,
+    "theme": "thema_1",
+    "question": "Het scherm van een computer of een tv.",
+    "options": [
+      "laf",
+      "het beeldscherm",
+      "hevig",
+      "de stakker"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "theme": "thema_1",
+    "question": "Een kleine, draagbare computer die op je schoot past. ",
+    "options": [
+      "optrekken met (iemand)",
+      "de laptop",
+      "de onbekende",
+      "de kameraad"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 31,
+    "theme": "thema_1",
+    "question": "Een knop op een apparaat of instrument.",
+    "options": [
+      "de kameraad",
+      "dapper",
+      "de toets",
+      "vluchten"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "theme": "thema_1",
+    "question": "Een kort gesprek over iets gewoons.",
+    "options": [
+      "de vijand",
+      "boffen",
+      "het praatje",
+      "optrekken met (iemand)"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 33,
+    "theme": "thema_1",
+    "question": "Als je de kans krijgt, dan mag je iets zeggen of proberen. ",
+    "options": [
+      "de toets",
+      "het gevaar",
+      "de kans",
+      "de bekende"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 34,
+    "theme": "thema_1",
+    "question": "In een strip staat hierin wat iemand zegt.",
+    "options": [
+      "de tekstballon",
+      "met opzet",
+      "het bewijs",
+      "alsmaar"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 35,
+    "theme": "thema_1",
+    "question": "In een strip staat hierin wat iemand denkt.",
+    "options": [
+      "een kleur krijgen",
+      "de lafaard",
+      "driemaal is scheepsrecht",
+      "de denkwolk"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 36,
+    "theme": "thema_1",
+    "question": "Als iets twee keer niet gelukt is, lukt het de derde keer vast wel. ",
+    "options": [
+      "de stam",
+      "het beeldscherm",
+      "driemaal is scheepsrecht",
+      "de bekende"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 37,
+    "theme": "thema_2",
+    "question": "Vertrekken.",
+    "options": [
+      "de tong",
+      "op pad gaan",
+      "de serie",
+      "de duinen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 38,
+    "theme": "thema_2",
+    "question": "Ergens naartoe gaan.",
+    "options": [
+      "het gedicht",
+      "fris",
+      "onderweg zijn",
+      "de griffel"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "theme": "thema_2",
+    "question": "Aankomen op de plek waar je naartoe reisde.",
+    "options": [
+      "de bestemming bereiken",
+      "de griffel",
+      "opkomen (van de zon)",
+      "de duinen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 40,
+    "theme": "thema_2",
+    "question": "Het land aan de rand van de zee.",
+    "options": [
+      "de kust",
+      "de branding",
+      "ondergaan (van de zon)",
+      "de illustratie"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 41,
+    "theme": "thema_2",
+    "question": "Bergen van zand bij de zee.",
+    "options": [
+      "de vos",
+      "de duinen",
+      "onderweg zijn",
+      "de schol"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 42,
+    "theme": "thema_2",
+    "question": "Een stuk land.",
+    "options": [
+      "de vos",
+      "het gebied",
+      "de rijmklank",
+      "de branding"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "theme": "thema_2",
+    "question": "Een stuk land dat ver van zee ligt.",
+    "options": [
+      "de rijmklank",
+      "het binnenland",
+      "de auteur",
+      "opkomen (van de zon)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 44,
+    "theme": "thema_2",
+    "question": "Een bril waarmee je onder water goed kunt zien.",
+    "options": [
+      "de kust",
+      "de serie",
+      "de duikbril",
+      "de baars"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 45,
+    "theme": "thema_2",
+    "question": "Een schrijver.",
+    "options": [
+      "de duinen",
+      "rijmen",
+      "de golf",
+      "de auteur"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 46,
+    "theme": "thema_2",
+    "question": "Een stel dingen die bij elkaar horen, bijvoorbeeld alle boeken over Robin. ",
+    "options": [
+      "de rijmklank",
+      "opeens",
+      "de branding",
+      "de serie"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 47,
+    "theme": "thema_2",
+    "question": "Een potlood waarmee kinderen vroeger op een bordje schreven.",
+    "options": [
+      "de bestemming bereiken",
+      "opeens",
+      "de griffel",
+      "de duinen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 48,
+    "theme": "thema_2",
+    "question": "Een plaatje.",
+    "options": [
+      "opeens",
+      "de auteur",
+      "de illustratie",
+      "het rijmwoord"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 49,
+    "theme": "thema_2",
+    "question": "Water van de zee dat op en neer gaat.",
+    "options": [
+      "de golf",
+      "de bestemming bereiken",
+      "het getijde",
+      "opkomen (van de zon)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 50,
+    "theme": "thema_2",
+    "question": "De plek vlak bij de kust waar golven op elkaar botsen.",
+    "options": [
+      "de branding",
+      "de baars",
+      "de stroming",
+      "de schol"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 51,
+    "theme": "thema_2",
+    "question": "Het bewegen van water.",
+    "options": [
+      "fris",
+      "eindeloos",
+      "de stroming",
+      "de rijmklank"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 52,
+    "theme": "thema_2",
+    "question": "De afwisseling tussen eb en vloed.",
+    "options": [
+      "het getijde",
+      "de stroming",
+      "de duikbril",
+      "de golf"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 53,
+    "theme": "thema_2",
+    "question": "De zee stroomt weg van de kust. Het strand is dan breed.",
+    "options": [
+      "de heimwee",
+      "de eb",
+      "de vos",
+      "de golf"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 54,
+    "theme": "thema_2",
+    "question": "De zee stroomt naar de kust toe. Het strand is dan smal.",
+    "options": [
+      "fris",
+      "opeens",
+      "de vloed",
+      "onderweg zijn"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 55,
+    "theme": "thema_2",
+    "question": "Een platte vis met een ronde vorm die in zee leeft.",
+    "options": [
+      "rijmen",
+      "de tekst",
+      "de vos",
+      "de schol"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 56,
+    "theme": "thema_2",
+    "question": "Een platte vis met bruine vlekjes die in zee leeft.",
+    "options": [
+      "de heimwee",
+      "de tong",
+      "fris",
+      "de stroming"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 57,
+    "theme": "thema_2",
+    "question": "Een vis die in zee of in rivieren en meren leeft.",
+    "options": [
+      "de illustratie",
+      "het gebied",
+      "de baars",
+      "de rijmklank"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 58,
+    "theme": "thema_2",
+    "question": "De zon komt omhoog.",
+    "options": [
+      "de schol",
+      "opkomen (van de zon)",
+      "ondergaan (van de zon)",
+      "de duinen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 59,
+    "theme": "thema_2",
+    "question": "De zon zakt weg.",
+    "options": [
+      "de golf",
+      "de kust",
+      "ondergaan (van de zon)",
+      "de tekst"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 60,
+    "theme": "thema_2",
+    "question": "Een beetje koud.",
+    "options": [
+      "de rijmklank",
+      "de baars",
+      "de auteur",
+      "fris"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 61,
+    "theme": "thema_2",
+    "question": "Als twee woorden op het eind hetzelfde klinken, zoals 'kust' en 'rust'. ",
+    "options": [
+      "rijmen",
+      "het getijde",
+      "het gedicht",
+      "de rijmklank"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 62,
+    "theme": "thema_2",
+    "question": "Het woord dat rijmt op een ander woord. 'Rust' en 'kust' zijn rijmwoorden.",
+    "options": [
+      "het rijmwoord",
+      "de stroming",
+      "de bestemming bereiken",
+      "ondergaan (van de zon)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "theme": "thema_2",
+    "question": "De rijmklank in 'kust' en 'rust' is 'ust'.",
+    "options": [
+      "de serie",
+      "de rijmklank",
+      "de illustratie",
+      "de bestemming bereiken"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 64,
+    "theme": "thema_2",
+    "question": "Een tekst met korte zinnen die mooi klinken.",
+    "options": [
+      "de golf",
+      "het gedicht",
+      "de tong",
+      "de tekst"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 65,
+    "theme": "thema_2",
+    "question": "Snel en in één keer.",
+    "options": [
+      "opeens",
+      "het gedicht",
+      "het rijmwoord",
+      "fris"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 66,
+    "theme": "thema_2",
+    "question": "Langzaam en in kleine stapjes.",
+    "options": [
+      "de blubber",
+      "de griffel",
+      "de golf",
+      "geleidelijk"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 67,
+    "theme": "thema_2",
+    "question": "Een roodbruin dier met een dikke staart.",
+    "options": [
+      "de vloed",
+      "de vos",
+      "de duinen",
+      "de schol"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 68,
+    "theme": "thema_2",
+    "question": "De modder.",
+    "options": [
+      "de blubber",
+      "de baars",
+      "eindeloos",
+      "de vloed"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "theme": "thema_2",
+    "question": "Woorden die zijn opgeschreven. Ze horen bij elkaar en betekenen samen iets.",
+    "options": [
+      "de tekst",
+      "rijmen",
+      "de rijmklank",
+      "de stroming"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 70,
+    "theme": "thema_2",
+    "question": "Iemand die goed is in muziek maken.",
+    "options": [
+      "muzikaal",
+      "ondergaan (van de zon)",
+      "opkomen (van de zon)",
+      "de duinen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 71,
+    "theme": "thema_2",
+    "question": "Als er geen einde aan lijkt te komen.",
+    "options": [
+      "de blubber",
+      "de eb",
+      "de duikbril",
+      "eindeloos"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 72,
+    "theme": "thema_2",
+    "question": "Als je erg naar huis verlangt, bijvoorbeeld als je met vakantie bent of ergens logeert. ",
+    "options": [
+      "de heimwee",
+      "de serie",
+      "fris",
+      "de vos"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 73,
+    "theme": "thema_3",
+    "question": "Alle meubels bij elkaar, bijvoorbeeld alle stoelen, kasten en tafels. ",
+    "options": [
+      "het deeg",
+      "kneden",
+      "het meetlint",
+      "het meubilair"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 74,
+    "theme": "thema_3",
+    "question": "Alle spullen in een kamer op de goede plek neerzetten.",
+    "options": [
+      "het recept",
+      "de ingrediënten",
+      "inrichten",
+      "fraai"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 75,
+    "theme": "thema_3",
+    "question": "Uitproberen of iets ergens in, op of tussen past. ",
+    "options": [
+      "passen en meten (uitdrukking)",
+      "het deeg",
+      "het gips",
+      "de plattegrond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 76,
+    "theme": "thema_3",
+    "question": "Iets is steeds hetzelfde, je verveelt je erbij. ",
+    "options": [
+      "het recept",
+      "saai",
+      "het puin",
+      "de duimstok"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 77,
+    "theme": "thema_3",
+    "question": "Iets is steeds anders, je verveelt je niet. ",
+    "options": [
+      "afwisselend",
+      "de krukken",
+      "het bakmeel",
+      "de wand"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 78,
+    "theme": "thema_3",
+    "question": "Iets wat je bedenkt.",
+    "options": [
+      "inrichten",
+      "de krukken",
+      "het idee",
+      "het bakmeel"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 79,
+    "theme": "thema_3",
+    "question": "Een muur.",
+    "options": [
+      "bakken",
+      "de wand",
+      "de lampenkap",
+      "het puin"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "theme": "thema_3",
+    "question": "Mooi.",
+    "options": [
+      "fraai",
+      "het meetinstrument",
+      "hinken",
+      "de bereidingswijze"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 81,
+    "theme": "thema_3",
+    "question": "Verband dat heel hard wordt. De dokter doet gips om je been als het gebroken is.",
+    "options": [
+      "de krukken",
+      "bakken",
+      "het gips",
+      "de kerrie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 82,
+    "theme": "thema_3",
+    "question": "Een klus, werk dat je moet doen. ",
+    "options": [
+      "de rolmaat",
+      "de bereidingswijze",
+      "kneden",
+      "het karwei"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 83,
+    "theme": "thema_3",
+    "question": "Stokken waar je op kunt steunen als je moeilijk kunt lopen, bijvoorbeeld als je been gebroken is. ",
+    "options": [
+      "de ingrediënten",
+      "het grofvuil",
+      "de krukken",
+      "fraai"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 84,
+    "theme": "thema_3",
+    "question": "Een soort deurtje van hout dat aan de buitenkant van een raam zit.",
+    "options": [
+      "het luik",
+      "de kerrie",
+      "inrichten",
+      "de nootmuskaat"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 85,
+    "theme": "thema_3",
+    "question": "Alles wat je weggooit en niet in de vuilnisbak past.",
+    "options": [
+      "de plattegrond",
+      "het grofvuil",
+      "het gips",
+      "het recept"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 86,
+    "theme": "thema_3",
+    "question": "Dingen die je niet meer gebruikt en weggooit, zoals lege melkpakken. ",
+    "options": [
+      "saai",
+      "het vuilnis",
+      "het meetlint",
+      "fraai"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "theme": "thema_3",
+    "question": "Een afkorting van groente-, fruit- en tuinafval. ",
+    "options": [
+      "fraai",
+      "het puin",
+      "het gft",
+      "het idee"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 88,
+    "theme": "thema_3",
+    "question": "Brokken steen die je weggooit.",
+    "options": [
+      "hinken",
+      "het puin",
+      "de duimstok",
+      "inrichten"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 89,
+    "theme": "thema_3",
+    "question": "Gereedschap waarmee je kunt meten.",
+    "options": [
+      "het meetinstrument",
+      "het gft",
+      "het karwei",
+      "saai"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 90,
+    "theme": "thema_3",
+    "question": "Een liniaal die je kunt opvouwen.",
+    "options": [
+      "de duimstok",
+      "de lampenkap",
+      "het deeg",
+      "de wand"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "theme": "thema_3",
+    "question": "Een stuk slappe stof of slap plastic waarmee je kunt meten.",
+    "options": [
+      "afwisselend",
+      "het meubilair",
+      "ontwerpen",
+      "het meetlint"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 92,
+    "theme": "thema_3",
+    "question": "Een liniaal die je kunt oprollen.",
+    "options": [
+      "het puin",
+      "het kaneel",
+      "de rolmaat",
+      "de nootmuskaat"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 93,
+    "theme": "thema_3",
+    "question": "Een kap die om de lamp zit.",
+    "options": [
+      "saai",
+      "het deeg",
+      "het gips",
+      "de lampenkap"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 94,
+    "theme": "thema_3",
+    "question": "Met kleine schokjes lopen, bijvoorbeeld doordat je voet pijn doet. ",
+    "options": [
+      "het vuilnis",
+      "kneden",
+      "de ingrediënten",
+      "hinken"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 95,
+    "theme": "thema_3",
+    "question": "Een tekening waarop je een stad of gebied van bovenaf ziet.",
+    "options": [
+      "het vuilnis",
+      "de plattegrond",
+      "het gft",
+      "het kaneel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 96,
+    "theme": "thema_3",
+    "question": "Iets bedenken en op papier tekenen.",
+    "options": [
+      "het kaneel",
+      "saai",
+      "ontwerpen",
+      "het luik"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 97,
+    "theme": "thema_3",
+    "question": "Gedroogde, fijngemalen delen van planten die het eten smaak geven. ",
+    "options": [
+      "bakken",
+      "de specerijen",
+      "het bakmeel",
+      "afwisselend"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 98,
+    "theme": "thema_3",
+    "question": "Een lichtbruin specerij.",
+    "options": [
+      "het kaneel",
+      "de wand",
+      "de specerijen",
+      "passen en meten (uitdrukking)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 99,
+    "theme": "thema_3",
+    "question": "Een donkergeel specerij.",
+    "options": [
+      "de specerijen",
+      "de kerrie",
+      "het deeg",
+      "de duimstok"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 100,
+    "theme": "thema_3",
+    "question": "Een donkerbruin specerij.",
+    "options": [
+      "het deeg",
+      "het gips",
+      "het kaneel",
+      "de nootmuskaat"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 101,
+    "theme": "thema_3",
+    "question": "Poeder (van graan) waarmee je bijvoorbeeld een taart of een brood kunt bakken.",
+    "options": [
+      "de krukken",
+      "het vuilnis",
+      "het bakmeel",
+      "bakken"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 102,
+    "theme": "thema_3",
+    "question": "Bakmeel dat is vermengd met water, boter en suiker. Deeg moet je kneden. ",
+    "options": [
+      "ontwerpen",
+      "het deeg",
+      "rijzen",
+      "de krukken"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 103,
+    "theme": "thema_3",
+    "question": "Steeds in het deeg knijpen om het soepel te maken.",
+    "options": [
+      "hinken",
+      "het deeg",
+      "de wand",
+      "kneden"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 104,
+    "theme": "thema_3",
+    "question": "Omhoogkomen van deeg. Dat komt omdat er meer lucht in komt.",
+    "options": [
+      "hinken",
+      "de wand",
+      "de kerrie",
+      "rijzen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 105,
+    "theme": "thema_3",
+    "question": "In de pan of de oven gaar laten worden.",
+    "options": [
+      "hinken",
+      "bakken",
+      "de plattegrond",
+      "inrichten"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 106,
+    "theme": "thema_3",
+    "question": "De manier (wijze) hoe je het eten kunt klaarmaken (bereiden).",
+    "options": [
+      "het luik",
+      "afwisselend",
+      "de bereidingswijze",
+      "bakken"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 107,
+    "theme": "thema_3",
+    "question": "De dingen waarvan het eten gemaakt is.",
+    "options": [
+      "de lampenkap",
+      "de ingrediënten",
+      "de duimstok",
+      "kneden"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 108,
+    "theme": "thema_3",
+    "question": "Een tekst waarop de ingrediënten en de bereidingswijze van een gerecht staan.",
+    "options": [
+      "bakken",
+      "de krukken",
+      "het gips",
+      "het recept"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 109,
+    "theme": "thema_4",
+    "question": "Een deel van je leven. Eerst ben je kind, dan volwassen, dan bejaard. ",
+    "options": [
+      "de levensfase",
+      "het tijdstip",
+      "het verslag",
+      "het feestmaal"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 110,
+    "theme": "thema_4",
+    "question": "Een kind van twee tot vier jaar oud.",
+    "options": [
+      "de peuter",
+      "het tijdstip",
+      "het verslag",
+      "de volgorde"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 111,
+    "theme": "thema_4",
+    "question": "Iemand die geen kind meer is, een groot mens. ",
+    "options": [
+      "iets op zak hebben",
+      "het verslag",
+      "morgenmiddag",
+      "de volwassene"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 112,
+    "theme": "thema_4",
+    "question": "Iemand die ouder is dan 65 jaar.",
+    "options": [
+      "de ervaring",
+      "opgroeien",
+      "het feestmaal",
+      "de bejaarde"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 113,
+    "theme": "thema_4",
+    "question": "Iets van vroeger, wat (bijna) niet meer gebruikt wordt. Het is het tegenovergestelde van modern. ",
+    "options": [
+      "ouderwets",
+      "een hekel hebben aan",
+      "schrappen",
+      "gewoonlijk"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 114,
+    "theme": "thema_4",
+    "question": "Iets van nu, wat past in deze tijd. Het is het tegenovergestelde van ouderwets. ",
+    "options": [
+      "modern",
+      "andersom",
+      "gisteravond",
+      "de levensfase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 115,
+    "theme": "thema_4",
+    "question": "Kleding die bij een bepaald beroep hoort. Een agent draagt bijvoorbeeld een uniform.",
+    "options": [
+      "modern",
+      "het geduld",
+      "het uniform",
+      "de bruiloft"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 116,
+    "theme": "thema_4",
+    "question": "Groot worden, volwassen worden. ",
+    "options": [
+      "algauw",
+      "de volgorde",
+      "de receptie",
+      "opgroeien"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 117,
+    "theme": "thema_4",
+    "question": "Opschrijven wat er gebeurd is.",
+    "options": [
+      "het verslag",
+      "de ervaring",
+      "één voor één",
+      "de bejaarde"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 118,
+    "theme": "thema_4",
+    "question": "Iets wat je meegemaakt hebt.",
+    "options": [
+      "het verslag",
+      "rangschikken",
+      "het uniform",
+      "de ervaring"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 119,
+    "theme": "thema_4",
+    "question": "Als je er helemaal niet van houdt. Veel kinderen hebben een hekel aan spruitjes.",
+    "options": [
+      "de volwassene",
+      "de receptie",
+      "een hekel hebben aan",
+      "het vallen van de avond"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 120,
+    "theme": "thema_4",
+    "question": "Iets bij je hebben.",
+    "options": [
+      "iets op zak hebben",
+      "de ervaring",
+      "het tijdstip",
+      "de levensfase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 121,
+    "theme": "thema_4",
+    "question": "Het feest van twee mensen die trouwen.",
+    "options": [
+      "de bruiloft",
+      "de sleep",
+      "één voor één",
+      "de levensfase"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 122,
+    "theme": "thema_4",
+    "question": "De man die trouwt.",
+    "options": [
+      "opgroeien",
+      "de bejaarde",
+      "het uniform",
+      "de bruidegom"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 123,
+    "theme": "thema_4",
+    "question": "Het meisje dat helpt op de bruiloft.",
+    "options": [
+      "morgenmiddag",
+      "één voor één",
+      "het bruidsmeisje",
+      "rangschikken"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 124,
+    "theme": "thema_4",
+    "question": "De ochtend van de dag na vandaag.",
+    "options": [
+      "één voor één",
+      "het uniform",
+      "schrappen",
+      "morgenochtend"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 125,
+    "theme": "thema_4",
+    "question": "De middag van de dag na vandaag.",
+    "options": [
+      "morgenmiddag",
+      "de bruiloft",
+      "andersom",
+      "morgenochtend"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 126,
+    "theme": "thema_4",
+    "question": "De avond van de dag vóór vandaag.",
+    "options": [
+      "de volwassene",
+      "schrappen",
+      "gisteravond",
+      "tegenwoordig"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 127,
+    "theme": "thema_4",
+    "question": "Een lang stuk stof aan de achterkant van een trouwjurk.",
+    "options": [
+      "morgenochtend",
+      "de sleep",
+      "rangschikken",
+      "een hekel hebben aan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 128,
+    "theme": "thema_4",
+    "question": "Snel.",
+    "options": [
+      "algauw",
+      "rangschikken",
+      "iets op zak hebben",
+      "één voor één"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 129,
+    "theme": "thema_4",
+    "question": "Een soort feest waar veel mensen bij elkaar komen. Ze komen iemand feliciteren, bijvoorbeeld een bruidspaar. ",
+    "options": [
+      "het uniform",
+      "de grootte",
+      "morgenochtend",
+      "de receptie"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 130,
+    "theme": "thema_4",
+    "question": "Een maaltijd tijdens een feest.",
+    "options": [
+      "rangschikken",
+      "opgroeien",
+      "het feestmaal",
+      "morgenmiddag"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 131,
+    "theme": "thema_4",
+    "question": "Iets vertellen aan een heleboel mensen tegelijk.",
+    "options": [
+      "één voor één",
+      "gewoonlijk",
+      "de toespraak",
+      "de volgorde"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 132,
+    "theme": "thema_4",
+    "question": "Meestal.",
+    "options": [
+      "gewoonlijk",
+      "algauw",
+      "het feestmaal",
+      "het geduld"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 133,
+    "theme": "thema_4",
+    "question": "De manier waarop dingen na elkaar komen.",
+    "options": [
+      "de volgorde",
+      "tegenwoordig",
+      "opgroeien",
+      "schrappen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 134,
+    "theme": "thema_4",
+    "question": "Na elkaar, niet allemaal tegelijk. ",
+    "options": [
+      "morgenmiddag",
+      "één voor één",
+      "de volgorde",
+      "een hekel hebben aan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 135,
+    "theme": "thema_4",
+    "question": "Tegengesteld of omgekeerd.",
+    "options": [
+      "andersom",
+      "het vallen van de avond",
+      "de sleep",
+      "de bejaarde"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 136,
+    "theme": "thema_4",
+    "question": "Iets op volgorde zetten.",
+    "options": [
+      "rangschikken",
+      "modern",
+      "de toespraak",
+      "het vallen van de avond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 137,
+    "theme": "thema_4",
+    "question": "Afmeting van iets, bijvoorbeeld de lengte. ",
+    "options": [
+      "algauw",
+      "het tijdstip",
+      "de grootte",
+      "modern"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 138,
+    "theme": "thema_4",
+    "question": "Het beginnen van de dag.",
+    "options": [
+      "het aanbreken van de ochtend",
+      "het uniform",
+      "het vallen van de avond",
+      "de bruidegom"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 139,
+    "theme": "thema_4",
+    "question": "Het eindigen van de dag, het beginnen van de avond. ",
+    "options": [
+      "ouderwets",
+      "het vallen van de avond",
+      "gewoonlijk",
+      "een hekel hebben aan"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 140,
+    "theme": "thema_4",
+    "question": "Nu.",
+    "options": [
+      "de volgorde",
+      "het verslag",
+      "tegenwoordig",
+      "schrappen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 141,
+    "theme": "thema_4",
+    "question": "Vanaf nu.",
+    "options": [
+      "schrappen",
+      "het vallen van de avond",
+      "het tijdstip",
+      "voortaan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 142,
+    "theme": "thema_4",
+    "question": "Als je geduld hebt, kun je goed wachten. Je wordt niet zenuwachtig of boos. ",
+    "options": [
+      "het geduld",
+      "rangschikken",
+      "voortaan",
+      "het vallen van de avond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 143,
+    "theme": "thema_4",
+    "question": "Een bepaald punt in de tijd.",
+    "options": [
+      "het tijdstip",
+      "de receptie",
+      "modern",
+      "tegenwoordig"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 144,
+    "theme": "thema_4",
+    "question": "Doorstrepen.",
+    "options": [
+      "het aanbreken van de ochtend",
+      "iets op zak hebben",
+      "schrappen",
+      "rangschikken"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 145,
+    "theme": "thema_5",
+    "question": "Een jong hondje.",
+    "options": [
+      "uitvoeren",
+      "de pup",
+      "de hoeven",
+      "de hoefsmid"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 146,
+    "theme": "thema_5",
+    "question": "Een jong katje.",
+    "options": [
+      "oppassen",
+      "tam",
+      "zogen",
+      "de kitten"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 147,
+    "theme": "thema_5",
+    "question": "Een dier waarvan de jongen melk drinken bij de moeder.",
+    "options": [
+      "de viool",
+      "tam",
+      "het zoogdier",
+      "de kanarie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 148,
+    "theme": "thema_5",
+    "question": "Een moeder geeft melk uit de borst.",
+    "options": [
+      "naast je neerleggen (uitdrukking)",
+      "het dwergkonijn",
+      "zogen",
+      "de longen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 149,
+    "theme": "thema_5",
+    "question": "Melk die jonge dieren (of baby's) drinken bij hun moeder.",
+    "options": [
+      "de viool",
+      "verzorgen",
+      "moedermelk",
+      "tokkelen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 150,
+    "theme": "thema_5",
+    "question": "Op een huisdier letten als zijn baasje er niet is.",
+    "options": [
+      "oppassen",
+      "de verzorger",
+      "de kanarie",
+      "zogen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 151,
+    "theme": "thema_5",
+    "question": "Een mens, dier of plant geven wat hij nodig heeft. ",
+    "options": [
+      "verhongeren",
+      "de pup",
+      "verzorgen",
+      "uitvoeren"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 152,
+    "theme": "thema_5",
+    "question": "Zeggen dat iets zo is.",
+    "options": [
+      "beweren",
+      "naast je neerleggen (uitdrukking)",
+      "de pup",
+      "uitvoeren"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 153,
+    "theme": "thema_5",
+    "question": "Spleetjes achter de kop van een vis. De vis ademt erdoor.",
+    "options": [
+      "de handleiding",
+      "het huisdier",
+      "wild",
+      "de kieuwen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 154,
+    "theme": "thema_5",
+    "question": "Longen zitten in je lichaam. Je ademt ermee.",
+    "options": [
+      "de snaren",
+      "inenten",
+      "de zoo",
+      "de longen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 155,
+    "theme": "thema_5",
+    "question": "IJzeren stangen van een kooi die ervoor zorgen dat een dier de kooi niet uit kan.",
+    "options": [
+      "de tralies",
+      "de hoeven",
+      "verhongeren",
+      "de hoefsmid"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 156,
+    "theme": "thema_5",
+    "question": "Een dierentuin.",
+    "options": [
+      "de longen",
+      "verzorgen",
+      "het artikel",
+      "de zoo"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 157,
+    "theme": "thema_5",
+    "question": "Tamme dieren zijn gewend aan mensen. Je kunt ze aaien.",
+    "options": [
+      "de verzorger",
+      "het dwergkonijn",
+      "de hoeven",
+      "tam"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 158,
+    "theme": "thema_5",
+    "question": "Wilde dieren zijn niet gewend aan mensen. Je kunt ze niet aaien.",
+    "options": [
+      "de omgeving",
+      "wild",
+      "de kitten",
+      "tokkelen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 159,
+    "theme": "thema_5",
+    "question": "Iemand probeert je te helpen. Hij zegt wat je volgens hem het best kunt doen.",
+    "options": [
+      "de raad",
+      "het zoogdier",
+      "de hoeven",
+      "verzorgen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 160,
+    "theme": "thema_5",
+    "question": "Je doet wat er wordt gezegd.",
+    "options": [
+      "uitvoeren",
+      "de hoefsmid",
+      "opvolgen",
+      "inenten"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 161,
+    "theme": "thema_5",
+    "question": "Je doet niet wat er wordt gezegd.",
+    "options": [
+      "een tip geven",
+      "verhongeren",
+      "naast je neerleggen (uitdrukking)",
+      "de hoefsmid"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 162,
+    "theme": "thema_5",
+    "question": "Een tam dier dat bij mensen woont.",
+    "options": [
+      "het huisdier",
+      "het zoogdier",
+      "tokkelen",
+      "moedermelk"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 163,
+    "theme": "thema_5",
+    "question": "Een vogeltje dat zingt. Een kanarie is vaak geel.",
+    "options": [
+      "het dwergkonijn",
+      "de hoefsmid",
+      "uitvoeren",
+      "de kanarie"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 164,
+    "theme": "thema_5",
+    "question": "Een klein konijn dat mensen vaak als huisdier hebben.",
+    "options": [
+      "de longen",
+      "het dwergkonijn",
+      "de tralies",
+      "de verzorger"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 165,
+    "theme": "thema_5",
+    "question": "Iets doen, ergens mee bezig zijn. ",
+    "options": [
+      "de zoo",
+      "de tralies",
+      "uitvoeren",
+      "de viool"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 166,
+    "theme": "thema_5",
+    "question": "Een tekst die uitlegt hoe je een apparaat moet gebruiken.",
+    "options": [
+      "de handleiding",
+      "oppassen",
+      "wild",
+      "moedermelk"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 167,
+    "theme": "thema_5",
+    "question": "Doodgaan van de honger.",
+    "options": [
+      "strelen",
+      "verhongeren",
+      "de kitten",
+      "de hoeven"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 168,
+    "theme": "thema_5",
+    "question": "Iemand die voor mensen, planten of dieren zorgt. ",
+    "options": [
+      "moedermelk",
+      "beweren",
+      "de verzorger",
+      "oppassen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 169,
+    "theme": "thema_5",
+    "question": "Een muziekinstrument met vier snaren.",
+    "options": [
+      "de hoeven",
+      "de viool",
+      "tokkelen",
+      "de hoefsmid"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 170,
+    "theme": "thema_5",
+    "question": "Draden op een muziekinstrument.",
+    "options": [
+      "de snaren",
+      "de longen",
+      "oppassen",
+      "een tip geven"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 171,
+    "theme": "thema_5",
+    "question": "Een stok met een paardenhaar. Met een strijkstok kun je langs de snaren strijken, zodat er geluid uit komt. ",
+    "options": [
+      "het artikel",
+      "de strijkstok",
+      "verhongeren",
+      "de verzorger"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 172,
+    "theme": "thema_5",
+    "question": "Zachtjes aan een snaar van een instrument trekken, zodat er geluid uitkomt. ",
+    "options": [
+      "het dwergkonijn",
+      "de raad",
+      "de zoo",
+      "tokkelen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 173,
+    "theme": "thema_5",
+    "question": "De lange haren van een dier op zijn hoofd en in zijn nek.",
+    "options": [
+      "de raad",
+      "de manen",
+      "de kieuwen",
+      "strelen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 174,
+    "theme": "thema_5",
+    "question": "Een soort harde, grote nagels die onder aan de benen van koeien en paarden zitten. ",
+    "options": [
+      "het artikel",
+      "de hoeven",
+      "de kitten",
+      "verzorgen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 175,
+    "theme": "thema_5",
+    "question": "De omgeving van iets is het gebied eromheen.",
+    "options": [
+      "de hoefsmid",
+      "de raad",
+      "de omgeving",
+      "de viool"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 176,
+    "theme": "thema_5",
+    "question": "Iemand die de hoeven van dieren verzorgt.",
+    "options": [
+      "de kanarie",
+      "de snaren",
+      "de tralies",
+      "de hoefsmid"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 177,
+    "theme": "thema_5",
+    "question": "Een prik geven tegen een ziekte.",
+    "options": [
+      "het artikel",
+      "de snaren",
+      "de pup",
+      "inenten"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 178,
+    "theme": "thema_5",
+    "question": "Zachtjes met je hand over de huid wrijven.",
+    "options": [
+      "naast je neerleggen (uitdrukking)",
+      "strelen",
+      "de viool",
+      "het dwergkonijn"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 179,
+    "theme": "thema_5",
+    "question": "Goede raad geven, waar je meteen iets aan hebt. ",
+    "options": [
+      "het dwergkonijn",
+      "wild",
+      "een tip geven",
+      "inenten"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 180,
+    "theme": "thema_5",
+    "question": "Een verhaal in een (school)krant.",
+    "options": [
+      "de kieuwen",
+      "de kanarie",
+      "verhongeren",
+      "het artikel"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 181,
+    "theme": "thema_6",
+    "question": "Een foto of schilderij van iemand van dichtbij.",
+    "options": [
+      "loeren",
+      "de beugel",
+      "het portret",
+      "schitterend"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 182,
+    "theme": "thema_6",
+    "question": "Een foto of schilderij waar dingen op staan die niet kunnen bewegen.",
+    "options": [
+      "de cartoon",
+      "de fantasie",
+      "door middel van",
+      "het stilleven"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 183,
+    "theme": "thema_6",
+    "question": "Een foto of schilderij van de natuur.",
+    "options": [
+      "de beugel",
+      "het landschap",
+      "het stilleven",
+      "de lens"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 184,
+    "theme": "thema_6",
+    "question": "Dat wat dichtbij is.",
+    "options": [
+      "naar het vogeltje kijken",
+      "schitterend",
+      "de voorgrond",
+      "behulpzaam"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 185,
+    "theme": "thema_6",
+    "question": "Dat wat ver weg is, maar wat je nog wel ziet. ",
+    "options": [
+      "het symbool",
+      "het pictogram",
+      "logisch",
+      "de achtergrond"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 186,
+    "theme": "thema_6",
+    "question": "Iemand die foto's maakt. Dat is zijn werk.",
+    "options": [
+      "de achtergrond",
+      "de fotograaf",
+      "knipogen",
+      "naar het vogeltje kijken"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 187,
+    "theme": "thema_6",
+    "question": "Heel mooi.",
+    "options": [
+      "schitterend",
+      "behulpzaam",
+      "het landschap",
+      "de voorgrond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 188,
+    "theme": "thema_6",
+    "question": "Een hol of bol glas. In een fototoestel en een verrekijker zitten lenzen.",
+    "options": [
+      "logisch",
+      "de lens",
+      "kennelijk",
+      "het pictogram"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 189,
+    "theme": "thema_6",
+    "question": "Iemand lang aankijken.",
+    "options": [
+      "de fotograaf",
+      "de verrekijker",
+      "aanstaren",
+      "behulpzaam"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 190,
+    "theme": "thema_6",
+    "question": "Laten zien of laten merken dat je iets voelt (bijvoorbeeld vrolijkheid of verdriet).",
+    "options": [
+      "knipogen",
+      "aangapen",
+      "klappertanden",
+      "uitdrukken"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 191,
+    "theme": "thema_6",
+    "question": "Als je een goed humeur hebt, ben je vrolijk. Als je een slecht humeur hebt, mopper je steeds. ",
+    "options": [
+      "aanstaren",
+      "het humeur",
+      "aangapen",
+      "kennelijk"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 192,
+    "theme": "thema_6",
+    "question": "Kijk naar het vogeltje', zegt een fotograaf. Hij wil dat je in de lens kijkt. ",
+    "options": [
+      "knipogen",
+      "kennelijk",
+      "naar het vogeltje kijken",
+      "klappertanden"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 193,
+    "theme": "thema_6",
+    "question": "Scherp naar iets kijken.",
+    "options": [
+      "het humeur",
+      "behulpzaam",
+      "knipogen",
+      "loeren"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 194,
+    "theme": "thema_6",
+    "question": "Met open mond naar iemand kijken. Je kijkt dom of verbaasd.",
+    "options": [
+      "de fantasie",
+      "aangapen",
+      "gluren",
+      "de beugel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 195,
+    "theme": "thema_6",
+    "question": "Je kijkt een tijdje naar één punt. Maar je ziet eigenlijk niets.",
+    "options": [
+      "logisch",
+      "staren",
+      "het humeur",
+      "loeren"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 196,
+    "theme": "thema_6",
+    "question": "Je kijkt van buiten naar binnen. Of van binnen naar buiten. Je wilt niet gezien worden.",
+    "options": [
+      "aanstaren",
+      "gluren",
+      "het portret",
+      "het symbool"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 197,
+    "theme": "thema_6",
+    "question": "Een plaatje dat iets anders voorstelt. De duif is het symbool voor vrede.",
+    "options": [
+      "het symbool",
+      "het humeur",
+      "de achtergrond",
+      "loeren"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 198,
+    "theme": "thema_6",
+    "question": "Een cijfer, letter of iets anders. Tekens zie je op je mobiele telefoon of computer. ",
+    "options": [
+      "de plas",
+      "het teken",
+      "klappertanden",
+      "schitterend"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 199,
+    "theme": "thema_6",
+    "question": "In de tijd dat het gebeurt.",
+    "options": [
+      "knipogen",
+      "tijdens",
+      "het teken",
+      "logisch"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 200,
+    "theme": "thema_6",
+    "question": "Hiermee kun je dingen die ver weg zijn, goed zien. ",
+    "options": [
+      "de verrekijker",
+      "het symbool",
+      "de voorgrond",
+      "de achtergrond"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 201,
+    "theme": "thema_6",
+    "question": "Je tanden tikken zachtjes tegen elkaar, omdat je het heel koud hebt of bang bent. ",
+    "options": [
+      "uitdrukken",
+      "klappertanden",
+      "aangapen",
+      "behulpzaam"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 202,
+    "theme": "thema_6",
+    "question": "Het meer.",
+    "options": [
+      "de plas",
+      "kennelijk",
+      "het pictogram",
+      "het apenstaartje"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 203,
+    "theme": "thema_6",
+    "question": "Eén oog even dichtdoen terwijl je iemand aankijkt.",
+    "options": [
+      "de achtergrond",
+      "knipogen",
+      "de lens",
+      "de beugel"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 204,
+    "theme": "thema_6",
+    "question": "Wat je verzint, het is niet echt. ",
+    "options": [
+      "behulpzaam",
+      "kennelijk",
+      "de fantasie",
+      "het haakje"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 205,
+    "theme": "thema_6",
+    "question": "De taal waarin je schrijft met beelden, zoals symbolen, pictogrammen, cartoons en tekens. ",
+    "options": [
+      "de verrekijker",
+      "de beeldtaal",
+      "knipogen",
+      "het hekje"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 206,
+    "theme": "thema_6",
+    "question": "Een kleine, makkelijke tekening die iets betekent. Dit pictogram betekent: gehandicapt. ",
+    "options": [
+      "het symbool",
+      "het stilleven",
+      "de achtergrond",
+      "het pictogram"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 207,
+    "theme": "thema_6",
+    "question": "Een grappige tekening.",
+    "options": [
+      "uitdrukken",
+      "de fantasie",
+      "de cartoon",
+      "de plas"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 208,
+    "theme": "thema_6",
+    "question": "Teken op de telefoon of computer.",
+    "options": [
+      "het symbool",
+      "de lens",
+      "door middel van",
+      "het hekje"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 209,
+    "theme": "thema_6",
+    "question": "Teken op de telefoon of computer.",
+    "options": [
+      "het landschap",
+      "schitterend",
+      "knipogen",
+      "het apenstaartje"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 210,
+    "theme": "thema_6",
+    "question": "Teken op de telefoon of computer.",
+    "options": [
+      "de verrekijker",
+      "het haakje",
+      "het portret",
+      "aanstaren"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 211,
+    "theme": "thema_6",
+    "question": "Dit woord gebruik je als je zeker weet waarover het gaat.",
+    "options": [
+      "bepaald",
+      "het symbool",
+      "de fantasie",
+      "het portret"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 212,
+    "theme": "thema_6",
+    "question": "Graag willen helpen.",
+    "options": [
+      "knipogen",
+      "het haakje",
+      "behulpzaam",
+      "de beeldtaal"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 213,
+    "theme": "thema_6",
+    "question": "Met.",
+    "options": [
+      "door middel van",
+      "het pictogram",
+      "tijdens",
+      "gluren"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 214,
+    "theme": "thema_6",
+    "question": "Duidelijk te zien.",
+    "options": [
+      "het symbool",
+      "de voorgrond",
+      "het landschap",
+      "kennelijk"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 215,
+    "theme": "thema_6",
+    "question": "IJzeren band in je mond om je tanden mee recht te zetten.",
+    "options": [
+      "de beugel",
+      "door middel van",
+      "aangapen",
+      "aanstaren"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 216,
+    "theme": "thema_6",
+    "question": "Als iets logisch is, dan klopt het. ",
+    "options": [
+      "logisch",
+      "het stilleven",
+      "schitterend",
+      "het apenstaartje"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 217,
+    "theme": "thema_7",
+    "question": "De belangrijkste rol in een film of toneelstuk.",
+    "options": [
+      "de hoofdrol",
+      "eruit flappen",
+      "de kunst",
+      "eigenaardig"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 218,
+    "theme": "thema_7",
+    "question": "Een minder belangrijke rol in een film of toneelstuk.",
+    "options": [
+      "eigenaardig",
+      "de bijrol",
+      "de liefhebber",
+      "de regisseur"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 219,
+    "theme": "thema_7",
+    "question": "Iemand die meespeelt in een film of toneelstuk, maar niets hoeft te zeggen. ",
+    "options": [
+      "de acrobatiek",
+      "de (film)reclame",
+      "de kunst",
+      "de figurant"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 220,
+    "theme": "thema_7",
+    "question": "Je doet niet wat een ander vraagt.",
+    "options": [
+      "de meester",
+      "de scène",
+      "de liefhebber",
+      "dwars"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 221,
+    "theme": "thema_7",
+    "question": "Je doet makkelijk wat een ander vraagt.",
+    "options": [
+      "eigenaardig",
+      "aandachtig",
+      "meegaand",
+      "de stunt"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 222,
+    "theme": "thema_7",
+    "question": "Een liefhebber houdt ergens van, bijvoorbeeld van lezen. ",
+    "options": [
+      "de regisseur",
+      "de liefhebber",
+      "dwars",
+      "het affiche"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 223,
+    "theme": "thema_7",
+    "question": "Als er een film van een boek wordt gemaakt.",
+    "options": [
+      "de cameraman",
+      "de (film)reclame",
+      "de verfilming",
+      "de acteur / de actrice"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 224,
+    "theme": "thema_7",
+    "question": "Een meester is ergens heel erg goed in.",
+    "options": [
+      "de pirouette",
+      "de cameraman",
+      "meegaand",
+      "de meester"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 225,
+    "theme": "thema_7",
+    "question": "Een spion probeert stiekem van alles te weten te komen.",
+    "options": [
+      "de spion",
+      "de trailer",
+      "eigenaardig",
+      "de stunt"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 226,
+    "theme": "thema_7",
+    "question": "Als je grijnst, trek je je gezicht in een lach. ",
+    "options": [
+      "het gezelschap",
+      "de (film)reclame",
+      "dankzij",
+      "grijnzen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 227,
+    "theme": "thema_7",
+    "question": "Aandachtig betekent dat je goed oplet.",
+    "options": [
+      "de cameraman",
+      "de trailer",
+      "het toneel",
+      "aandachtig"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 228,
+    "theme": "thema_7",
+    "question": "Iets zeggen zonder erbij na te denken.",
+    "options": [
+      "eruit flappen",
+      "meegaand",
+      "de galerie",
+      "de cameraman"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 229,
+    "theme": "thema_7",
+    "question": "Iemand die een rol speelt in een film of toneelstuk.",
+    "options": [
+      "de acteur / de actrice",
+      "de liefhebber",
+      "glunderen",
+      "presenteren"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 230,
+    "theme": "thema_7",
+    "question": "Iemand die de leiding heeft bij het opnemen van een film.",
+    "options": [
+      "de regisseur",
+      "de schouwburg",
+      "meegaand",
+      "de cameraman"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 231,
+    "theme": "thema_7",
+    "question": "Iemand die een film opneemt met een filmcamera.",
+    "options": [
+      "de figurant",
+      "de cameraman",
+      "gedurende",
+      "de kunst"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 232,
+    "theme": "thema_7",
+    "question": "Een paar losse stukjes uit een nieuwe film om reclame te maken voor die film.",
+    "options": [
+      "het gezelschap",
+      "de scène",
+      "dankzij",
+      "de trailer"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 233,
+    "theme": "thema_7",
+    "question": "Een poster van een film.",
+    "options": [
+      "dankzij",
+      "het ballet",
+      "het affiche",
+      "meegaand"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 234,
+    "theme": "thema_7",
+    "question": "Als je reclame maakt voor een film, zeg je dat die film erg leuk en goed is. ",
+    "options": [
+      "overdrijven",
+      "presenteren",
+      "de (film)reclame",
+      "de spion"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 235,
+    "theme": "thema_7",
+    "question": "Iets of iemand voorstellen.",
+    "options": [
+      "de vaart",
+      "de (film)reclame",
+      "aandachtig",
+      "presenteren"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 236,
+    "theme": "thema_7",
+    "question": "Met de hulp van.",
+    "options": [
+      "de ballerina",
+      "het affiche",
+      "dankzij",
+      "grijnzen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 237,
+    "theme": "thema_7",
+    "question": "Een groep mensen die bij elkaar horen.",
+    "options": [
+      "de verfilming",
+      "de spion",
+      "het gezelschap",
+      "de stunt"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 238,
+    "theme": "thema_7",
+    "question": "De snelheid.",
+    "options": [
+      "de vaart",
+      "de ballerina",
+      "eigenaardig",
+      "het affiche"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 239,
+    "theme": "thema_7",
+    "question": "Als je aan acrobatiek doet, kun je allerlei kunsten met je lichaam doen. ",
+    "options": [
+      "aandachtig",
+      "de hoofdrol",
+      "dankzij",
+      "de acrobatiek"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 240,
+    "theme": "thema_7",
+    "question": "Een moeilijke of gevaarlijke actie in een film.",
+    "options": [
+      "overdrijven",
+      "dankzij",
+      "de ballerina",
+      "de stunt"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 241,
+    "theme": "thema_7",
+    "question": "Vaak mooie dingen die mensen hebben gemaakt, bijvoorbeeld: tekeningen, schilderijen, toneelstukken, ballet en muziek. ",
+    "options": [
+      "de regisseur",
+      "dankzij",
+      "de bijrol",
+      "de kunst"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 242,
+    "theme": "thema_7",
+    "question": "Een gebouw waar toneelstukken, ballet en andere voorstellingen te zien zijn. ",
+    "options": [
+      "de cameraman",
+      "de schouwburg",
+      "de trailer",
+      "grijnzen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 243,
+    "theme": "thema_7",
+    "question": "Een ruimte waar je kunst kunt bekijken en kopen.",
+    "options": [
+      "de galerie",
+      "de spion",
+      "de scène",
+      "de liefhebber"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 244,
+    "theme": "thema_7",
+    "question": "De kunst van het dansen.",
+    "options": [
+      "de acrobatiek",
+      "dwars",
+      "de pirouette",
+      "het ballet"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 245,
+    "theme": "thema_7",
+    "question": "Een balletdanseres.",
+    "options": [
+      "dankzij",
+      "het ballet",
+      "eruit flappen",
+      "de ballerina"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 246,
+    "theme": "thema_7",
+    "question": "Als je een pirouette maakt, dan draai je snel rond op één voet. ",
+    "options": [
+      "de spion",
+      "de pirouette",
+      "gedurende",
+      "de liefhebber"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 247,
+    "theme": "thema_7",
+    "question": "Een podium: een verhoging in een zaal, waarop toneelstukken worden gedaan. ",
+    "options": [
+      "het toneel",
+      "meegaand",
+      "de cameraman",
+      "de acteur / de actrice"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 248,
+    "theme": "thema_7",
+    "question": "Als je overdrijft, dan doe je net alsof iets heel groot, heel erg of heel mooi is. ",
+    "options": [
+      "overdrijven",
+      "de schouwburg",
+      "de figurant",
+      "de regisseur"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 249,
+    "theme": "thema_7",
+    "question": "Raar, vreemd. ",
+    "options": [
+      "eigenaardig",
+      "het toneel",
+      "de scène",
+      "de verfilming"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 250,
+    "theme": "thema_7",
+    "question": "Tijdens, zolang het duurt. ",
+    "options": [
+      "de stunt",
+      "eigenaardig",
+      "de cameraman",
+      "gedurende"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 251,
+    "theme": "thema_7",
+    "question": "Heel blij kijken.",
+    "options": [
+      "het affiche",
+      "de acrobatiek",
+      "glunderen",
+      "de galerie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 252,
+    "theme": "thema_7",
+    "question": "Een stukje uit een toneelstuk of film.",
+    "options": [
+      "de schouwburg",
+      "de scène",
+      "de cameraman",
+      "de meester"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 253,
+    "theme": "thema_8",
+    "question": "Spullen die je verkoopt of gebruikt.",
+    "options": [
+      "het toestel",
+      "de inbreker",
+      "de goederen",
+      "de ruimte"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 254,
+    "theme": "thema_8",
+    "question": "Goederen die worden bewaard om later te gebruiken of te verkopen.",
+    "options": [
+      "uitbeelden",
+      "de fietsroute",
+      "het toestel",
+      "de voorraad"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 255,
+    "theme": "thema_8",
+    "question": "Een lage kast in een winkel waar de verkoper meestal achter staat.",
+    "options": [
+      "schuldig",
+      "bezorgen",
+      "de toonbank",
+      "bovenop"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 256,
+    "theme": "thema_8",
+    "question": "Vragen of je iets kunt kopen. Je moet ervoor betalen.",
+    "options": [
+      "kortom",
+      "de knecht",
+      "in ontvangst nemen",
+      "bestellen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 257,
+    "theme": "thema_8",
+    "question": "De goederen die je besteld hebt, worden bij je thuis gebracht. ",
+    "options": [
+      "openlijk",
+      "wat mij betreft",
+      "bezorgen",
+      "de advertentie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 258,
+    "theme": "thema_8",
+    "question": "Als je iets in ontvangst neemt, pak je iets aan. ",
+    "options": [
+      "wat mij betreft",
+      "de ruimte",
+      "kortom",
+      "in ontvangst nemen"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 259,
+    "theme": "thema_8",
+    "question": "Iets wat er duur en netjes uitziet, is deftig. ",
+    "options": [
+      "deftig",
+      "in ontvangst nemen",
+      "op onderzoek uitgaan",
+      "betrappen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 260,
+    "theme": "thema_8",
+    "question": "Een stukje in de krant waarin iets wordt aangeboden.",
+    "options": [
+      "de advertentie",
+      "bezorgen",
+      "de aanbieding",
+      "ontkennen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 261,
+    "theme": "thema_8",
+    "question": "Afkorting van het telefoontoestel.",
+    "options": [
+      "aanbieden",
+      "geheim",
+      "het toestel",
+      "de ruimte"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 262,
+    "theme": "thema_8",
+    "question": "Betalen.",
+    "options": [
+      "afrekenen",
+      "deftig",
+      "bovenop",
+      "de munt"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 263,
+    "theme": "thema_8",
+    "question": "Als je schuldig kijkt, weet je dat je iets hebt gedaan wat niet mag. ",
+    "options": [
+      "ontkennen",
+      "de knecht",
+      "afrekenen",
+      "schuldig"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 264,
+    "theme": "thema_8",
+    "question": "Zeggen dat je iets niet gedaan hebt.",
+    "options": [
+      "de fietsroute",
+      "ontkennen",
+      "in kas",
+      "bestellen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 265,
+    "theme": "thema_8",
+    "question": "Een vrouw die in de keuken werkt. Ze helpt de kok. Het is een beroep van vroeger.",
+    "options": [
+      "bovenop",
+      "onderop",
+      "bezorgen",
+      "de keukenmeid"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 266,
+    "theme": "thema_8",
+    "question": "Een jongen die helpt bij het werk, bijvoorbeeld in de stal van het kasteel. ",
+    "options": [
+      "bovenop",
+      "de keukenmeid",
+      "de knecht",
+      "ontkennen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 267,
+    "theme": "thema_8",
+    "question": "Een vrouw die de koningin helpt, bijvoorbeeld bij het aankleden. ",
+    "options": [
+      "arresteren",
+      "de fietsroute",
+      "bestellen",
+      "de hofdame"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 268,
+    "theme": "thema_8",
+    "question": "Op iets anders.",
+    "options": [
+      "tussenin",
+      "overhalen",
+      "schuldig",
+      "bovenop"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 269,
+    "theme": "thema_8",
+    "question": "Tussen twee dingen in.",
+    "options": [
+      "de inbreker",
+      "openlijk",
+      "tussenin",
+      "de advertentie"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 270,
+    "theme": "thema_8",
+    "question": "Helemaal onder iets anders.",
+    "options": [
+      "overhalen",
+      "bovenop",
+      "de knecht",
+      "onderop"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 271,
+    "theme": "thema_8",
+    "question": "Het geldstuk.",
+    "options": [
+      "de voorraad",
+      "in kas",
+      "de munt",
+      "betrappen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 272,
+    "theme": "thema_8",
+    "question": "Verkopen.",
+    "options": [
+      "geheim",
+      "aanbieden",
+      "bovenop",
+      "de knecht"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 273,
+    "theme": "thema_8",
+    "question": "Voordoen hoe iets gaat.",
+    "options": [
+      "bovenop",
+      "de ruimte",
+      "de advertentie",
+      "uitbeelden"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 274,
+    "theme": "thema_8",
+    "question": "Al.",
+    "options": [
+      "deftig",
+      "op onderzoek uitgaan",
+      "overhalen",
+      "reeds"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 275,
+    "theme": "thema_8",
+    "question": "Een weg die je kunt rijden met je fiets. Je ziet bordjes of je leest op een kaart hoe je moet rijden.",
+    "options": [
+      "de inbreker",
+      "ergens vol van zijn",
+      "bovenop",
+      "de fietsroute"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 276,
+    "theme": "thema_8",
+    "question": "Je vindt het zo bijzonder dat je er niet over uitgepraat raakt.",
+    "options": [
+      "ergens vol van zijn",
+      "openlijk",
+      "onderop",
+      "de hofdame"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 277,
+    "theme": "thema_8",
+    "question": "Iets wat geheim is, vertel je niet aan anderen. ",
+    "options": [
+      "geheim",
+      "deftig",
+      "uitbeelden",
+      "de knecht"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 278,
+    "theme": "thema_8",
+    "question": "Als je iets openlijk kunt vertellen, kun je het aan andere mensen vertellen. ",
+    "options": [
+      "openlijk",
+      "de hofdame",
+      "afrekenen",
+      "de munt"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 279,
+    "theme": "thema_8",
+    "question": "Ergens naartoe gaan om zoveel mogelijk te weten te komen.",
+    "options": [
+      "bestellen",
+      "in kas",
+      "arresteren",
+      "op onderzoek uitgaan"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 280,
+    "theme": "thema_8",
+    "question": "Als je iemand betrapt, dan zie je dat hij iets stiekem doet. ",
+    "options": [
+      "betrappen",
+      "tussenin",
+      "de inbreker",
+      "overhalen"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 281,
+    "theme": "thema_8",
+    "question": "Oppakken en meenemen naar het politiebureau.",
+    "options": [
+      "ontkennen",
+      "arresteren",
+      "onderop",
+      "deftig"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 282,
+    "theme": "thema_8",
+    "question": "Iemand wil iets niet. Je haalt hem over door hem dingen te zeggen waardoor hij het toch wil.",
+    "options": [
+      "schuldig",
+      "de voorraad",
+      "overhalen",
+      "kortom"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 283,
+    "theme": "thema_8",
+    "question": "Iets wat goedkoper is dan normaal.",
+    "options": [
+      "aanbieden",
+      "de aanbieding",
+      "afrekenen",
+      "de knecht"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 284,
+    "theme": "thema_8",
+    "question": "Hoeveel geld er nog is.",
+    "options": [
+      "ontkennen",
+      "de aanbieding",
+      "in kas",
+      "tussenin"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 285,
+    "theme": "thema_8",
+    "question": "Iemand die stiekem huizen binnengaat om dingen te stelen.",
+    "options": [
+      "op onderzoek uitgaan",
+      "de munt",
+      "tussenin",
+      "de inbreker"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 286,
+    "theme": "thema_8",
+    "question": "Een plek met muren eromheen, bijvoorbeeld een kamer of een klaslokaal. ",
+    "options": [
+      "de fietsroute",
+      "bovenop",
+      "de ruimte",
+      "arresteren"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 287,
+    "theme": "thema_8",
+    "question": "Als ik het mag zeggen.",
+    "options": [
+      "de keukenmeid",
+      "tussenin",
+      "wat mij betreft",
+      "kortom"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 288,
+    "theme": "thema_8",
+    "question": "Dit woord gebruik je om alles wat je daarvoor hebt gezegd, nog een keer kort te zeggen. ",
+    "options": [
+      "kortom",
+      "overhalen",
+      "de advertentie",
+      "de hofdame"
+    ],
+    "correct": 0
+  }
+]
