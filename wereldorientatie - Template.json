@@ -3508,5 +3508,2020 @@
     ],
     "correct": 2,
     "extra_info": "Een **drum** is een muziekinstrument dat ritmisch wordt beslagen."
+  },
+  {
+    "id": 271,
+    "theme": "algemene kennis",
+    "question": "Welke dag is het vandaag als gisteren maandag was?",
+    "options": [
+      "Dinsdag",
+      "Woensdag",
+      "Donderdag",
+      "Vrijdag"
+    ],
+    "correct": 0,
+    "extra_info": "Als gisteren maandag was, dan is vandaag dinsdag."
+  },
+  {
+    "id": 272,
+    "theme": "wereldorientatie",
+    "question": "Wat is de hoofdstad van Nederland?",
+    "options": [
+      "Rotterdam",
+      "'s-Hertogenbosch",
+      "Amsterdam",
+      "Utrecht"
+    ],
+    "correct": 2,
+    "extra_info": "Amsterdam is de hoofdstad van Nederland."
+  },
+  {
+    "id": 273,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Een spin heeft acht poten."
+  },
+  {
+    "id": 274,
+    "theme": "wereldorientatie",
+    "question": "Welk groot dier leeft op de Noordpool en is wit?",
+    "options": [
+      "Tijger",
+      "IJsbeer",
+      "Olifant",
+      "Leeuw"
+    ],
+    "correct": 1,
+    "extra_info": "De ijsbeer is een groot wit dier dat op de Noordpool leeft."
+  },
+  {
+    "id": 275,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'snel'?",
+    "options": [
+      "Hard",
+      "Langzaam",
+      "Vlug",
+      "Snel"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van snel is langzaam."
+  },
+ {
+    "id": 326,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'kukeleku'?",
+    "options": [
+      "Koe",
+      "Kip",
+      "Haan",
+      "Varken"
+    ],
+    "correct": 2,
+    "extra_info": "Een haan zegt 'kukeleku'."
+  },
+  {
+    "id": 327,
+    "theme": "algemene kennis",
+    "question": "Hoeveel dagen zitten er in een jaar (geen schrikkeljaar)?",
+    "options": [
+      "360",
+      "365",
+      "366",
+      "300"
+    ],
+    "correct": 1,
+    "extra_info": "Een normaal jaar heeft 365 dagen."
+  },
+  {
+    "id": 328,
+    "theme": "algemene kennis",
+    "question": "Wat is de naam van de grote gele ster die ons warmte geeft?",
+    "options": [
+      "Maan",
+      "Aarde",
+      "Zon",
+      "Ster"
+    ],
+    "correct": 2,
+    "extra_info": "De zon is een grote gele ster die ons warmte en licht geeft."
+  },
+  {
+    "id": 329,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een tomaat als hij rijp is?",
+    "options": [
+      "Groen",
+      "Geel",
+      "Rood",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Een rijpe tomaat is rood van kleur."
+  },
+  {
+    "id": 330,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kanten heeft een driehoek?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 1,
+    "extra_info": "Een driehoek heeft drie kanten."
+  },
+  {
+    "id": 331,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in het water en kan zwemmen, maar heeft geen poten?",
+    "options": [
+      "Kikker",
+      "Eend",
+      "Vis",
+      "Krab"
+    ],
+    "correct": 2,
+    "extra_info": "Een vis leeft in het water en zwemt, en heeft geen poten."
+  },
+  {
+    "id": 332,
+    "theme": "algemene kennis",
+    "question": "Welke maaltijd eet je 's avonds?",
+    "options": [
+      "Ontbijt",
+      "Lunch",
+      "Diner",
+      "Tussendoortje"
+    ],
+    "correct": 2,
+    "extra_info": "'s Avonds eet je het diner (of avondeten)."
+  },
+  {
+    "id": 333,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'nat'?",
+    "options": [
+      "Koud",
+      "Droog",
+      "Vochtig",
+      "Warm"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van nat is droog."
+  },
+  {
+    "id": 334,
+    "theme": "algemene kennis",
+    "question": "Welk voorwerp gebruik je om een deur te openen?",
+    "options": [
+      "Hamer",
+      "Sleutel",
+      "Schaar",
+      "Boek"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een sleutel om een deur te openen."
+  },
+  {
+    "id": 335,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na maart?",
+    "options": [
+      "Februari",
+      "April",
+      "Mei",
+      "Juni"
+    ],
+    "correct": 1,
+    "extra_info": "Na maart komt april."
+  },
+  {
+    "id": 336,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een stoel meestal?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "extra_info": "Een stoel heeft meestal vier poten."
+  },
+  {
+    "id": 337,
+    "theme": "algemene kennis",
+    "question": "Welk dier maakt honing?",
+    "options": [
+      "Mier",
+      "Vlieg",
+      "Bij",
+      "Wesp"
+    ],
+    "correct": 2,
+    "extra_info": "Bijen maken honing."
+  },
+  {
+    "id": 338,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'boven'?",
+    "options": [
+      "Naast",
+      "Onder",
+      "Aan",
+      "Op"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van 'boven' is 'onder'."
+  },
+  {
+    "id": 339,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een rijpe citroen?",
+    "options": [
+      "Groen",
+      "Geel",
+      "Rood",
+      "Oranje"
+    ],
+    "correct": 1,
+    "extra_info": "Een rijpe citroen is geel."
+  },
+  {
+    "id": 340,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om je haar te kammen?",
+    "options": [
+      "Schaar",
+      "Kam",
+      "Borstel",
+      "Tandenborstel"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een kam om je haar te kammen."
+  },
+  {
+    "id": 341,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'meow'?",
+    "options": [
+      "Hond",
+      "Kat",
+      "Koe",
+      "Schaap"
+    ],
+    "correct": 1,
+    "extra_info": "Een kat zegt 'meow'."
+  },
+  {
+    "id": 342,
+    "theme": "algemene kennis",
+    "question": "Hoeveel vingers heb je aan twee handen?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct": 2,
+    "extra_info": "Aan twee handen heb je tien vingers (inclusief duimen)."
+  },
+  {
+    "id": 343,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel gebruik je om te lopen?",
+    "options": [
+      "Armen",
+      "Benen",
+      "Hoofd",
+      "Handen"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt je benen om te lopen."
+  },
+  {
+    "id": 344,
+    "theme": "algemene kennis",
+    "question": "Welke vorm heeft een ei?",
+    "options": [
+      "Rond",
+      "Vierkant",
+      "Ovaal",
+      "Driehoek"
+    ],
+    "correct": 2,
+    "extra_info": "Een ei heeft een ovale vorm."
+  },
+  {
+    "id": 345,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'donker'?",
+    "options": [
+      "Zwart",
+      "Licht",
+      "Grijs",
+      "Helder"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van donker is licht."
+  },
+  {
+    "id": 346,
+    "theme": "algemene kennis",
+    "question": "Welke maand is de kortste van het jaar?",
+    "options": [
+      "Januari",
+      "Februari",
+      "Maart",
+      "April"
+    ],
+    "correct": 1,
+    "extra_info": "Februari is de kortste maand van het jaar."
+  },
+  {
+    "id": 347,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in het water en heeft een schild?",
+    "options": [
+      "Vis",
+      "Kikker",
+      "Schildpad",
+      "Slang"
+    ],
+    "correct": 2,
+    "extra_info": "Een schildpad leeft (deels) in het water en heeft een schild."
+  },
+  {
+    "id": 348,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kledingstukken draag je op een koude winterdag?",
+    "options": [
+      "Weinig",
+      "Normaal",
+      "Veel",
+      "Geen"
+    ],
+    "correct": 2,
+    "extra_info": "Op een koude winterdag draag je veel kledingstukken om warm te blijven."
+  },
+  {
+    "id": 349,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van de lucht op een zonnige dag?",
+    "options": [
+      "Grijs",
+      "Rood",
+      "Blauw",
+      "Groen"
+    ],
+    "correct": 2,
+    "extra_info": "De lucht is meestal blauw op een zonnige dag."
+  },
+  {
+    "id": 350,
+    "theme": "algemene kennis",
+    "question": "Welk fruit is geel en kun je pellen?",
+    "options": [
+      "Appel",
+      "Banaan",
+      "Peer",
+      "Sinaasappel"
+    ],
+    "correct": 1,
+    "extra_info": "Een banaan is geel en kun je pellen."
+  },
+  {
+    "id": 351,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'dag'?",
+    "options": [
+      "Middag",
+      "Nacht",
+      "Ochtend",
+      "Avond"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van dag is nacht."
+  },
+  {
+    "id": 352,
+    "theme": "algemene kennis",
+    "question": "Hoeveel zintuigen hebben mensen?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Mensen hebben vijf zintuigen: zien, horen, ruiken, proeven en voelen."
+  },
+  {
+    "id": 353,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een huisdier en blaft?",
+    "options": [
+      "Kat",
+      "Hond",
+      "Vogel",
+      "Vis"
+    ],
+    "correct": 1,
+    "extra_info": "Een hond is een huisdier dat blaft."
+  },
+  {
+    "id": 354,
+    "theme": "algemene kennis",
+    "question": "Welke sport speel je met een bal in een net?",
+    "options": [
+      "Voetbal",
+      "Basketbal",
+      "Hockey",
+      "Zwemmen"
+    ],
+    "correct": 1,
+    "extra_info": "Basketbal speel je met een bal die je in een net gooit."
+  },
+  {
+    "id": 355,
+    "theme": "algemene kennis",
+    "question": "Wat is het kleinste getal van deze reeks: 9, 7, 4, 6?",
+    "options": [
+      "9",
+      "7",
+      "4",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Van de getallen 9, 7, 4, 6 is 4 het kleinste."
+  },
+  {
+    "id": 356,
+    "theme": "algemene kennis",
+    "question": "Welk dier kruipt over de grond en heeft geen poten?",
+    "options": [
+      "Hagedis",
+      "Slang",
+      "Kikker",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een slang kruipt over de grond en heeft geen poten."
+  },
+  {
+    "id": 357,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'voor'?",
+    "options": [
+      "Naast",
+      "Achter",
+      "Boven",
+      "Onder"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van 'voor' is 'achter'."
+  },
+  {
+    "id": 358,
+    "theme": "algemene kennis",
+    "question": "Welke groente is lang en groen?",
+    "options": [
+      "Tomaat",
+      "Wortel",
+      "Komkommer",
+      "Aardappel"
+    ],
+    "correct": 2,
+    "extra_info": "Een komkommer is lang en groen."
+  },
+  {
+    "id": 359,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om je handen te wassen?",
+    "options": [
+      "Zand",
+      "Zeep",
+      "Suiker",
+      "Zout"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt zeep om je handen te wassen."
+  },
+  {
+    "id": 360,
+    "theme": "algemene kennis",
+    "question": "Welk dier is roze en leeft op een boerderij en maakt 'oink' geluid?",
+    "options": [
+      "Koe",
+      "Schaap",
+      "Varken",
+      "Paard"
+    ],
+    "correct": 2,
+    "extra_info": "Een varken is roze, leeft op een boerderij en maakt een 'oink' geluid."
+  },
+  {
+    "id": 361,
+    "theme": "algemene kennis",
+    "question": "Hoeveel seizoenen heeft een jaar?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "extra_info": "Een jaar heeft vier seizoenen: lente, zomer, herfst en winter."
+  },
+  {
+    "id": 362,
+    "theme": "algemene kennis",
+    "question": "Welk vervoersmiddel heeft vleugels en vliegt in de lucht?",
+    "options": [
+      "Auto",
+      "Boot",
+      "Vliegtuig",
+      "Trein"
+    ],
+    "correct": 2,
+    "extra_info": "Een vliegtuig heeft vleugels en vliegt in de lucht."
+  },
+  {
+    "id": 363,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'jong'?",
+    "options": [
+      "Klein",
+      "Oud",
+      "Snel",
+      "Groot"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van jong is oud."
+  },
+  {
+    "id": 364,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en heeft zes poten en vleugels?",
+    "options": [
+      "Spin",
+      "Slak",
+      "Vlinder",
+      "Worm"
+    ],
+    "correct": 2,
+    "extra_info": "Een vlinder is een insect met zes poten en vleugels."
+  },
+  {
+    "id": 365,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft sneeuw?",
+    "options": [
+      "Blauw",
+      "Wit",
+      "Grijs",
+      "Geel"
+    ],
+    "correct": 1,
+    "extra_info": "Sneeuw is wit."
+  },
+  {
+    "id": 366,
+    "theme": "algemene kennis",
+    "question": "Wat is de vorm van een pizza?",
+    "options": [
+      "Vierkant",
+      "Driehoek",
+      "Rond",
+      "Rechthoek"
+    ],
+    "correct": 2,
+    "extra_info": "Een pizza is meestal rond."
+  },
+  {
+    "id": 367,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'muh'?",
+    "options": [
+      "Paard",
+      "Koe",
+      "Kat",
+      "Schaap"
+    ],
+    "correct": 1,
+    "extra_info": "Een koe zegt 'muh'."
+  },
+  {
+    "id": 368,
+    "theme": "algemene kennis",
+    "question": "Hoeveel uren zitten er in één dag?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "correct": 2,
+    "extra_info": "Er zitten 24 uur in één dag."
+  },
+  {
+    "id": 369,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'leeg'?",
+    "options": [
+      "Mager",
+      "Vol",
+      "Klein",
+      "Open"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van leeg is vol."
+  },
+  {
+    "id": 370,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na augustus?",
+    "options": [
+      "Juli",
+      "September",
+      "Oktober",
+      "November"
+    ],
+    "correct": 1,
+    "extra_info": "Na augustus komt september."
+  },
+  {
+    "id": 371,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en is vaak groen?",
+    "options": [
+      "Mus",
+      "Papegaai",
+      "Duif",
+      "Meeuw"
+    ],
+    "correct": 1,
+    "extra_info": "Een papegaai is een vogel die vaak groen is en kan praten."
+  },
+  {
+    "id": 372,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om te eten?",
+    "options": [
+      "Boek",
+      "Vork",
+      "Potlood",
+      "Sleutel"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een vork (en lepel, mes) om te eten."
+  },
+  {
+    "id": 373,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een stoplicht als je mag rijden?",
+    "options": [
+      "Rood",
+      "Oranje",
+      "Groen",
+      "Blauw"
+    ],
+    "correct": 2,
+    "extra_info": "Als het stoplicht groen is, mag je rijden."
+  },
+  {
+    "id": 374,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en heeft mooie vleugels?",
+    "options": [
+      "Mier",
+      "Spin",
+      "Vlinder",
+      "Kevers"
+    ],
+    "correct": 2,
+    "extra_info": "Een vlinder is een insect met mooie vleugels."
+  },
+  {
+    "id": 375,
+    "theme": "algemene kennis",
+    "question": "Wat is het grootste getal van deze reeks: 1, 7, 3, 5?",
+    "options": [
+      "1",
+      "7",
+      "3",
+      "5"
+    ],
+    "correct": 1,
+    "extra_info": "Van de getallen 1, 7, 3, 5 is 7 het grootste."
+  },
+{
+    "id": 376,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de winter in winterslaap?",
+    "options": [
+      "Hond",
+      "Beer",
+      "Vogel",
+      "Vis"
+    ],
+    "correct": 1,
+    "extra_info": "Sommige beren houden een winterslaap."
+  },
+  {
+    "id": 377,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van de bladeren in de herfst?",
+    "options": [
+      "Groen",
+      "Blauw",
+      "Rood, geel, oranje",
+      "Wit"
+    ],
+    "correct": 2,
+    "extra_info": "In de herfst veranderen bladeren van kleur naar rood, geel en oranje."
+  },
+  {
+    "id": 378,
+    "theme": "algemene kennis",
+    "question": "Welke lichaamsdeel gebruik je om te ruiken?",
+    "options": [
+      "Oren",
+      "Neus",
+      "Mond",
+      "Ogen"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt je neus om te ruiken."
+  },
+  {
+    "id": 379,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een kip?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "extra_info": "Een kip heeft twee poten."
+  },
+  {
+    "id": 380,
+    "theme": "algemene kennis",
+    "question": "Welk vervoersmiddel rijdt op rails?",
+    "options": [
+      "Auto",
+      "Boot",
+      "Trein",
+      "Vliegtuig"
+    ],
+    "correct": 2,
+    "extra_info": "Een trein rijdt op rails."
+  },
+  {
+    "id": 381,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'schoon'?",
+    "options": [
+      "Netjes",
+      "Vuil",
+      "Mooi",
+      "Strak"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van schoon is vuil."
+  },
+  {
+    "id": 382,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na juni?",
+    "options": [
+      "Mei",
+      "Juli",
+      "Augustus",
+      "September"
+    ],
+    "correct": 1,
+    "extra_info": "Na juni komt juli."
+  },
+  {
+    "id": 383,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een insect en verzamelt kruimels?",
+    "options": [
+      "Vlinder",
+      "Mier",
+      "Bij",
+      "Vlieg"
+    ],
+    "correct": 1,
+    "extra_info": "Mieren staan bekend om het verzamelen van voedsel, zoals kruimels."
+  },
+  {
+    "id": 384,
+    "theme": "algemene kennis",
+    "question": "Wat is het getal na 9?",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 1,
+    "extra_info": "Het getal na 9 is 10."
+  },
+  {
+    "id": 385,
+    "theme": "algemene kennis",
+    "question": "Welke maaltijd eet je 's middags?",
+    "options": [
+      "Ontbijt",
+      "Lunch",
+      "Diner",
+      "Avondeten"
+    ],
+    "correct": 1,
+    "extra_info": "'s Middags eet je lunch."
+  },
+  {
+    "id": 386,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een aubergine?",
+    "options": [
+      "Groen",
+      "Rood",
+      "Paars",
+      "Geel"
+    ],
+    "correct": 2,
+    "extra_info": "Een aubergine is paars van kleur."
+  },
+  {
+    "id": 387,
+    "theme": "algemene kennis",
+    "question": "Welk gereedschap gebruik je om een spijker in de muur te slaan?",
+    "options": [
+      "Schaar",
+      "Schroevendraaier",
+      "Hamer",
+      "Tang"
+    ],
+    "correct": 2,
+    "extra_info": "Je gebruikt een hamer om een spijker in de muur te slaan."
+  },
+  {
+    "id": 388,
+    "theme": "algemene kennis",
+    "question": "Hoeveel vleugels heeft een vogel meestal?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct": 2,
+    "extra_info": "Een vogel heeft meestal twee vleugels."
+  },
+  {
+    "id": 389,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'open'?",
+    "options": [
+      "Dicht",
+      "Wijd",
+      "Smal",
+      "Vrij"
+    ],
+    "correct": 0,
+    "extra_info": "Het tegenovergestelde van open is dicht."
+  },
+  {
+    "id": 390,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'kwak kwak'?",
+    "options": [
+      "Kip",
+      "Eend",
+      "Zwaan",
+      "Gans"
+    ],
+    "correct": 1,
+    "extra_info": "Een eend zegt 'kwak kwak'."
+  },
+  {
+    "id": 391,
+    "theme": "algemene kennis",
+    "question": "Hoeveel seconden zitten er in één minuut?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "correct": 1,
+    "extra_info": "Er zitten 60 seconden in één minuut."
+  },
+  {
+    "id": 392,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een boomstam?",
+    "options": [
+      "Groen",
+      "Wit",
+      "Bruin",
+      "Zwart"
+    ],
+    "correct": 2,
+    "extra_info": "Een boomstam is meestal bruin van kleur."
+  },
+  {
+    "id": 393,
+    "theme": "algemene kennis",
+    "question": "Welk fruit is rood en heeft kleine pitjes aan de buitenkant?",
+    "options": [
+      "Appel",
+      "Aardbei",
+      "Banaan",
+      "Sinaasappel"
+    ],
+    "correct": 1,
+    "extra_info": "Een aardbei is rood en heeft kleine pitjes aan de buitenkant."
+  },
+  {
+    "id": 394,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om te meten hoe lang iets is?",
+    "options": [
+      "Schaar",
+      "Liniaal",
+      "Gum",
+      "Potlood"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een liniaal of meetlint om te meten hoe lang iets is."
+  },
+  {
+    "id": 395,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'boe'?",
+    "options": [
+      "Paard",
+      "Varken",
+      "Koe",
+      "Kip"
+    ],
+    "correct": 2,
+    "extra_info": "Een koe zegt 'boe'."
+  },
+  {
+    "id": 396,
+    "theme": "algemene kennis",
+    "question": "Hoeveel vingers heb je aan je linkervoet?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Aan één voet heb je vijf tenen."
+  },
+  {
+    "id": 397,
+    "theme": "algemene kennis",
+    "question": "Welke dag van de week komt na zondag?",
+    "options": [
+      "Zaterdag",
+      "Maandag",
+      "Dinsdag",
+      "Vrijdag"
+    ],
+    "correct": 1,
+    "extra_info": "Na zondag komt maandag."
+  },
+  {
+    "id": 398,
+    "theme": "algemene kennis",
+    "question": "Welke groente is rond en vaak wit of rood?",
+    "options": [
+      "Wortel",
+      "Ui",
+      "Komkommer",
+      "Tomaat"
+    ],
+    "correct": 1,
+    "extra_info": "Een ui is rond en kan wit of rood zijn."
+  },
+  {
+    "id": 399,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'lachen'?",
+    "options": [
+      "Zingen",
+      "Huilen",
+      "Praten",
+      "Springen"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van lachen is huilen."
+  },
+  {
+    "id": 400,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een huisdier en kan kwispelen met zijn staart?",
+    "options": [
+      "Kat",
+      "Hond",
+      "Vis",
+      "Vogel"
+    ],
+    "correct": 1,
+    "extra_info": "Een hond is een huisdier dat met zijn staart kan kwispelen."
+  },
+  {
+    "id": 401,
+    "theme": "algemene kennis",
+    "question": "Hoeveel minuten zitten er in een half uur?",
+    "options": [
+      "15",
+      "30",
+      "45",
+      "60"
+    ],
+    "correct": 1,
+    "extra_info": "Een half uur is 30 minuten."
+  },
+  {
+    "id": 402,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft bloed?",
+    "options": [
+      "Blauw",
+      "Groen",
+      "Rood",
+      "Geel"
+    ],
+    "correct": 2,
+    "extra_info": "Bloed is rood."
+  },
+  {
+    "id": 403,
+    "theme": "algemene kennis",
+    "question": "Wat is de vorm van een boek?",
+    "options": [
+      "Rond",
+      "Vierkant",
+      "Rechthoekig",
+      "Driehoekig"
+    ],
+    "correct": 2,
+    "extra_info": "Een boek is meestal rechthoekig."
+  },
+  {
+    "id": 404,
+    "theme": "algemene kennis",
+    "question": "Welk dier leeft in de zee en heeft acht armen?",
+    "options": [
+      "Vis",
+      "Krab",
+      "Octopus",
+      "Dolfijn"
+    ],
+    "correct": 2,
+    "extra_info": "Een octopus heeft acht armen."
+  },
+  {
+    "id": 405,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opstaan'?",
+    "options": [
+      "Springen",
+      "Zitten",
+      "Slapen",
+      "Lopen"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opstaan is zitten."
+  },
+  {
+    "id": 406,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt voor januari?",
+    "options": [
+      "December",
+      "Februari",
+      "Maart",
+      "November"
+    ],
+    "correct": 0,
+    "extra_info": "Voor januari komt december."
+  },
+  {
+    "id": 407,
+    "theme": "algemene kennis",
+    "question": "Welk dier is lang en heeft een gestreepte vacht?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Olifant",
+      "Zebra"
+    ],
+    "correct": 1,
+    "extra_info": "Een tijger heeft een gestreepte vacht."
+  },
+  {
+    "id": 408,
+    "theme": "algemene kennis",
+    "question": "Wat is het grootste getal van deze reeks: 10, 2, 5, 8?",
+    "options": [
+      "2",
+      "5",
+      "8",
+      "10"
+    ],
+    "correct": 3,
+    "extra_info": "Van de getallen 10, 2, 5, 8 is 10 het grootste."
+  },
+  {
+    "id": 409,
+    "theme": "algemene kennis",
+    "question": "Welke lichaamsdeel gebruik je om te horen?",
+    "options": [
+      "Neus",
+      "Ogen",
+      "Mond",
+      "Oren"
+    ],
+    "correct": 3,
+    "extra_info": "Je gebruikt je oren om te horen."
+  },
+  {
+    "id": 410,
+    "theme": "algemene kennis",
+    "question": "Welke groente is oranje en heeft een pluimpje groen aan de bovenkant?",
+    "options": [
+      "Tomaat",
+      "Broccoli",
+      "Wortel",
+      "Sla"
+    ],
+    "correct": 2,
+    "extra_info": "Een wortel is oranje en heeft vaak een pluimpje groen aan de bovenkant."
+  },
+  {
+    "id": 411,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'slecht'?",
+    "options": [
+      "Fout",
+      "Goed",
+      "Minder",
+      "Niet"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van slecht is goed."
+  },
+  {
+    "id": 412,
+    "theme": "algemene kennis",
+    "question": "Welke dag is het vandaag als eergisteren dinsdag was?",
+    "options": [
+      "Woensdag",
+      "Donderdag",
+      "Vrijdag",
+      "Maandag"
+    ],
+    "correct": 1,
+    "extra_info": "Als eergisteren dinsdag was, dan was gisteren woensdag en vandaag donderdag."
+  },
+  {
+    "id": 413,
+    "theme": "algemene kennis",
+    "question": "Welk dier is wit en heeft zwarte vlekken, en leeft op een boerderij?",
+    "options": [
+      "Paard",
+      "Zebra",
+      "Koe",
+      "Schaap"
+    ],
+    "correct": 2,
+    "extra_info": "Een koe is vaak wit met zwarte vlekken en leeft op een boerderij."
+  },
+  {
+    "id": 414,
+    "theme": "algemene kennis",
+    "question": "Hoeveel letters heeft het woord 'zon'?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "extra_info": "Het woord 'zon' heeft drie letters."
+  },
+  {
+    "id": 415,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'begin'?",
+    "options": [
+      "Start",
+      "Einde",
+      "Midden",
+      "Voordat"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van begin is einde."
+  },
+  {
+    "id": 416,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een brandweerauto?",
+    "options": [
+      "Blauw",
+      "Geel",
+      "Rood",
+      "Groen"
+    ],
+    "correct": 2,
+    "extra_info": "Een brandweerauto is rood."
+  },
+  {
+    "id": 417,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om te knippen?",
+    "options": [
+      "Hamer",
+      "Schaar",
+      "Pen",
+      "Liniaal"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een schaar om te knippen."
+  },
+  {
+    "id": 418,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en is vaak blauw met een lange staart?",
+    "options": [
+      "Mus",
+      "Papegaai",
+      "Meeuw",
+      "Adelaar"
+    ],
+    "correct": 1,
+    "extra_info": "Sommige papegaaien zijn blauw en hebben een lange staart."
+  },
+  {
+    "id": 419,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Een spin heeft acht poten."
+  },
+  {
+    "id": 420,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'hard' (zoals een steen)?",
+    "options": [
+      "Moeilijk",
+      "Zacht",
+      "Sterk",
+      "Vast"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van hard is zacht."
+  },
+  {
+    "id": 421,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na november?",
+    "options": [
+      "Oktober",
+      "December",
+      "Januari",
+      "September"
+    ],
+    "correct": 1,
+    "extra_info": "Na november komt december."
+  },
+  {
+    "id": 422,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'blub blub' in het water?",
+    "options": [
+      "Vogel",
+      "Hond",
+      "Vis",
+      "Kat"
+    ],
+    "correct": 2,
+    "extra_info": "Een vis maakt geen geluid, maar we zeggen soms 'blub blub' voor vissen."
+  },
+  {
+    "id": 423,
+    "theme": "algemene kennis",
+    "question": "Hoeveel neuzen heb je?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "extra_info": "De meeste mensen hebben één neus."
+  },
+  {
+    "id": 424,
+    "theme": "algemene kennis",
+    "question": "Welk fruit is rond en vaak rood, geel of groen?",
+    "options": [
+      "Banaan",
+      "Appel",
+      "Peer",
+      "Druif"
+    ],
+    "correct": 1,
+    "extra_info": "Een appel is rond en kan rood, geel of groen zijn."
+  },
+  {
+    "id": 425,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opstaan'?",
+    "options": [
+      "Springen",
+      "Zitten",
+      "Slapen",
+      "Lopen"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opstaan is zitten."
+  },
+ {
+    "id": 426,
+    "theme": "algemene kennis",
+    "question": "Welk dier eet bananen?",
+    "options": [
+      "Kat",
+      "Hond",
+      "Aap",
+      "Koe"
+    ],
+    "correct": 2,
+    "extra_info": "Apen eten vaak bananen."
+  },
+  {
+    "id": 427,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Een spin heeft acht poten."
+  },
+  {
+    "id": 428,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van de wortels van een plant?",
+    "options": [
+      "Groen",
+      "Bruin",
+      "Rood",
+      "Geel"
+    ],
+    "correct": 1,
+    "extra_info": "De wortels van de meeste planten zijn bruin."
+  },
+  {
+    "id": 429,
+    "theme": "algemene kennis",
+    "question": "Welk lichaamsdeel gebruik je om te proeven?",
+    "options": [
+      "Oren",
+      "Neus",
+      "Tong",
+      "Ogen"
+    ],
+    "correct": 2,
+    "extra_info": "Je gebruikt je tong om te proeven."
+  },
+  {
+    "id": 430,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een tafel meestal?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 2,
+    "extra_info": "Een tafel heeft meestal vier poten."
+  },
+  {
+    "id": 431,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'snel'?",
+    "options": [
+      "Hard",
+      "Langzaam",
+      "Vlug",
+      "Snel"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van snel is langzaam."
+  },
+  {
+    "id": 432,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na april?",
+    "options": [
+      "Maart",
+      "Mei",
+      "Juni",
+      "Juli"
+    ],
+    "correct": 1,
+    "extra_info": "Na april komt mei."
+  },
+  {
+    "id": 433,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een vogel en is vaak wit en zwemt in het water?",
+    "options": [
+      "Mus",
+      "Duif",
+      "Zwaan",
+      "Meeuw"
+    ],
+    "correct": 2,
+    "extra_info": "Een zwaan is een grote witte vogel die vaak zwemt."
+  },
+  {
+    "id": 434,
+    "theme": "algemene kennis",
+    "question": "Wat is het getal voor 5?",
+    "options": [
+      "3",
+      "4",
+      "6",
+      "7"
+    ],
+    "correct": 1,
+    "extra_info": "Het getal voor 5 is 4."
+  },
+  {
+    "id": 435,
+    "theme": "algemene kennis",
+    "question": "Welke maaltijd eet je 's ochtends vroeg?",
+    "options": [
+      "Lunch",
+      "Ontbijt",
+      "Diner",
+      "Tussendoortje"
+    ],
+    "correct": 1,
+    "extra_info": "'s Ochtends vroeg eet je het ontbijt."
+  },
+  {
+    "id": 436,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een citroen?",
+    "options": [
+      "Groen",
+      "Geel",
+      "Oranje",
+      "Rood"
+    ],
+    "correct": 1,
+    "extra_info": "Een citroen is geel."
+  },
+  {
+    "id": 437,
+    "theme": "algemene kennis",
+    "question": "Welk gereedschap gebruik je om te tekenen?",
+    "options": [
+      "Hamer",
+      "Potlood",
+      "Schaar",
+      "Boek"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een potlood om te tekenen."
+  },
+  {
+    "id": 438,
+    "theme": "algemene kennis",
+    "question": "Hoeveel oren heb je?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "extra_info": "De meeste mensen hebben twee oren."
+  },
+  {
+    "id": 439,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'nieuw'?",
+    "options": [
+      "Modern",
+      "Oud",
+      "Vers",
+      "Onbekend"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van nieuw is oud."
+  },
+  {
+    "id": 440,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'mèh bèh'?",
+    "options": [
+      "Koe",
+      "Schaap",
+      "Geit",
+      "Paard"
+    ],
+    "correct": 1,
+    "extra_info": "Een schaap zegt 'mèh bèh'."
+  },
+  {
+    "id": 441,
+    "theme": "algemene kennis",
+    "question": "Hoeveel dagen heeft februari in een normaal jaar?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correct": 0,
+    "extra_info": "Februari heeft 28 dagen in een normaal jaar."
+  },
+  {
+    "id": 442,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van melk?",
+    "options": [
+      "Geel",
+      "Wit",
+      "Groen",
+      "Blauw"
+    ],
+    "correct": 1,
+    "extra_info": "Melk is wit."
+  },
+  {
+    "id": 443,
+    "theme": "algemene kennis",
+    "question": "Welk fruit is geel en groeit in een tros?",
+    "options": [
+      "Appel",
+      "Peer",
+      "Banaan",
+      "Sinaasappel"
+    ],
+    "correct": 2,
+    "extra_info": "Bananen zijn geel en groeien in trossen."
+  },
+  {
+    "id": 444,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om te eten, maar is geen bestek?",
+    "options": [
+      "Bord",
+      "Glas",
+      "Vork",
+      "Pan"
+    ],
+    "correct": 0,
+    "extra_info": "Je eet van een bord."
+  },
+  {
+    "id": 445,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'oink oink'?",
+    "options": [
+      "Koe",
+      "Varken",
+      "Schaap",
+      "Kip"
+    ],
+    "correct": 1,
+    "extra_info": "Een varken zegt 'oink oink'."
+  },
+  {
+    "id": 446,
+    "theme": "algemene kennis",
+    "question": "Hoeveel dagen heeft een schrikkeljaar in februari?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "correct": 1,
+    "extra_info": "Februari heeft 29 dagen in een schrikkeljaar."
+  },
+  {
+    "id": 447,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een paddenstoel met rode hoed en witte stippen?",
+    "options": [
+      "Blauw",
+      "Groen",
+      "Rood en wit",
+      "Geel"
+    ],
+    "correct": 2,
+    "extra_info": "Een paddenstoel zoals een vliegenzwam heeft een rode hoed met witte stippen."
+  },
+  {
+    "id": 448,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'eerste'?",
+    "options": [
+      "Laatste",
+      "Midden",
+      "Begin",
+      "Nieuw"
+    ],
+    "correct": 0,
+    "extra_info": "Het tegenovergestelde van eerste is laatste."
+  },
+  {
+    "id": 449,
+    "theme": "algemene kennis",
+    "question": "Welk dier kan vliegen en fladdert met zijn vleugels?",
+    "options": [
+      "Vis",
+      "Hond",
+      "Vogel",
+      "Slang"
+    ],
+    "correct": 2,
+    "extra_info": "Een vogel kan vliegen en fladdert met zijn vleugels."
+  },
+  {
+    "id": 450,
+    "theme": "algemene kennis",
+    "question": "Wat is het kleinste getal van deze reeks: 12, 1, 9, 3?",
+    "options": [
+      "12",
+      "1",
+      "9",
+      "3"
+    ],
+    "correct": 1,
+    "extra_info": "Van de getallen 12, 1, 9, 3 is 1 het kleinste."
+  },
+  {
+    "id": 451,
+    "theme": "algemene kennis",
+    "question": "Welke lichaamsdeel gebruik je om te zien?",
+    "options": [
+      "Neus",
+      "Oren",
+      "Ogen",
+      "Mond"
+    ],
+    "correct": 2,
+    "extra_info": "Je gebruikt je ogen om te zien."
+  },
+  {
+    "id": 452,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kleuren heeft de Nederlandse vlag?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "extra_info": "De Nederlandse vlag heeft drie kleuren: rood, wit en blauw."
+  },
+  {
+    "id": 453,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een aardappel?",
+    "options": [
+      "Groen",
+      "Rood",
+      "Bruin",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Een aardappel is meestal bruin van kleur."
+  },
+  {
+    "id": 454,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om je handen af te drogen?",
+    "options": [
+      "Servet",
+      "Handdoek",
+      "Papier",
+      "Doekje"
+    ],
+    "correct": 1,
+    "extra_info": "Je gebruikt een handdoek om je handen af te drogen."
+  },
+  {
+    "id": 455,
+    "theme": "algemene kennis",
+    "question": "Welk dier zegt 'hihihi'?",
+    "options": [
+      "Hond",
+      "Paard",
+      "Ezel",
+      "Kip"
+    ],
+    "correct": 2,
+    "extra_info": "Een ezel maakt een geluid dat klinkt als 'hihihi'."
+  },
+  {
+    "id": 456,
+    "theme": "algemene kennis",
+    "question": "Hoeveel kanten heeft een cirkel?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct": 0,
+    "extra_info": "Een cirkel heeft geen rechte kanten."
+  },
+  {
+    "id": 457,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'omhoog'?",
+    "options": [
+      "Links",
+      "Omlaag",
+      "Rechts",
+      "Vooruit"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van omhoog is omlaag."
+  },
+  {
+    "id": 458,
+    "theme": "algemene kennis",
+    "question": "Welke maand komt na oktober?",
+    "options": [
+      "September",
+      "November",
+      "December",
+      "Augustus"
+    ],
+    "correct": 1,
+    "extra_info": "Na oktober komt november."
+  },
+  {
+    "id": 459,
+    "theme": "algemene kennis",
+    "question": "Welk dier is lang en heeft een kronkelend lichaam?",
+    "options": [
+      "Vis",
+      "Slang",
+      "Hagedis",
+      "Krokodil"
+    ],
+    "correct": 1,
+    "extra_info": "Een slang is lang en heeft een kronkelend lichaam."
+  },
+  {
+    "id": 460,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een tomaat?",
+    "options": [
+      "Groen",
+      "Geel",
+      "Rood",
+      "Oranje"
+    ],
+    "correct": 2,
+    "extra_info": "Een rijpe tomaat is rood."
+  },
+  {
+    "id": 461,
+    "theme": "algemene kennis",
+    "question": "Wat is het grootste getal van deze reeks: 20, 15, 30, 25?",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correct": 3,
+    "extra_info": "Van de getallen 20, 15, 30, 25 is 30 het grootste."
+  },
+  {
+    "id": 462,
+    "theme": "algemene kennis",
+    "question": "Welke sport speel je op een grasveld met een bal die je schopt?",
+    "options": [
+      "Basketbal",
+      "Voetbal",
+      "Handbal",
+      "Tennis"
+    ],
+    "correct": 1,
+    "extra_info": "Voetbal speel je op een grasveld met een bal die je schopt."
+  },
+  {
+    "id": 463,
+    "theme": "algemene kennis",
+    "question": "Hoeveel armen heeft een mens?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "extra_info": "Een mens heeft twee armen."
+  },
+  {
+    "id": 464,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'zwaar'?",
+    "options": [
+      "Sterk",
+      "Licht",
+      "Groot",
+      "Klein"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van zwaar is licht."
+  },
+  {
+    "id": 465,
+    "theme": "algemene kennis",
+    "question": "Welk dier is oranje met zwarte strepen?",
+    "options": [
+      "Leeuw",
+      "Tijger",
+      "Zebra",
+      "Koe"
+    ],
+    "correct": 1,
+    "extra_info": "Een tijger is oranje met zwarte strepen."
+  },
+  {
+    "id": 466,
+    "theme": "algemene kennis",
+    "question": "Hoeveel wielen heeft een auto?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 2,
+    "extra_info": "Een auto heeft meestal vier wielen."
+  },
+  {
+    "id": 467,
+    "theme": "algemene kennis",
+    "question": "Wat is de kleur van een banaan die nog niet rijp is?",
+    "options": [
+      "Geel",
+      "Groen",
+      "Rood",
+      "Bruin"
+    ],
+    "correct": 1,
+    "extra_info": "Een onrijpe banaan is groen."
+  },
+  {
+    "id": 468,
+    "theme": "algemene kennis",
+    "question": "Wat gebruik je om water te drinken?",
+    "options": [
+      "Fles",
+      "Bord",
+      "Vork",
+      "Potlood"
+    ],
+    "correct": 0,
+    "extra_info": "Je drinkt water uit een fles of glas."
+  },
+  {
+    "id": 469,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een huisdier en kan vliegen in een kooitje?",
+    "options": [
+      "Hond",
+      "Kat",
+      "Vis",
+      "Vogel (bijv. parkiet)"
+    ],
+    "correct": 3,
+    "extra_info": "Een vogel, zoals een parkiet, is een huisdier en kan vliegen in een kooitje."
+  },
+  {
+    "id": 470,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'zacht' (zoals een kussen)?",
+    "options": [
+      "Hard",
+      "Mooi",
+      "Klein",
+      "Warm"
+    ],
+    "correct": 0,
+    "extra_info": "Het tegenovergestelde van zacht is hard."
+  },
+  {
+    "id": 471,
+    "theme": "algemene kennis",
+    "question": "Hoeveel poten heeft een spin?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correct": 2,
+    "extra_info": "Een spin heeft acht poten."
+  },
+  {
+    "id": 472,
+    "theme": "algemene kennis",
+    "question": "Welk dier is een huisdier en woont in een aquarium?",
+    "options": [
+      "Hond",
+      "Kat",
+      "Vis",
+      "Vogel"
+    ],
+    "correct": 2,
+    "extra_info": "Een vis is een huisdier en woont in een aquarium."
+  },
+  {
+    "id": 473,
+    "theme": "algemene kennis",
+    "question": "Wat is het grootste getal van deze reeks: 50, 5, 10, 25?",
+    "options": [
+      "5",
+      "10",
+      "25",
+      "50"
+    ],
+    "correct": 3,
+    "extra_info": "Van de getallen 50, 5, 10, 25 is 50 het grootste."
+  },
+  {
+    "id": 474,
+    "theme": "algemene kennis",
+    "question": "Welke kleur heeft een bos op een zonnige zomerdag?",
+    "options": [
+      "Rood",
+      "Bruin",
+      "Groen",
+      "Wit"
+    ],
+    "correct": 2,
+    "extra_info": "Een bos is groen op een zonnige zomerdag."
+  },
+  {
+    "id": 475,
+    "theme": "algemene kennis",
+    "question": "Wat is het tegenovergestelde van 'opwarmen'?",
+    "options": [
+      "Koken",
+      "Afkoelen",
+      "Bakken",
+      "Verhitten"
+    ],
+    "correct": 1,
+    "extra_info": "Het tegenovergestelde van opwarmen is afkoelen."
   }  
 ]
