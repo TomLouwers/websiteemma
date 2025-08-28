@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "theme": "1 Optellen met splitsstrategie",
+    "question": "Los op: 28 + 15",
+    "steps": [
+      "Splits 15 in 2 en 13",
+      "28 + 2 = 30",
+      "30 + 13 = 43"
+    ],
+    "options": [
+      "41",
+      "42", 
+      "43",
+      "44"
+    ],
+    "correct": 2,
+    "extra_info": "De splitsstrategie helpt je door eerst naar een 'rond' tiental toe te werken. Je splitst het tweede getal zo dat je het eerste getal naar het volgende tiental kunt brengen.",
+    "getal1": 28,
+    "getal2": 15,
+    "operation": "+"
+  },
+  {
+    "id": 2,
+    "theme": "1 Optellen met splitsstrategie",
+    "question": "Los op: 37 + 24",
+    "steps": [
+      "Splits 24 in 3 en 21",
+      "37 + 3 = 40",
+      "40 + 21 = 61"
+    ],
+    "options": [
+      "59",
+      "60",
+      "61",
+      "62"
+    ],
+    "correct": 2,
+    "extra_info": "Door 37 eerst naar 40 te brengen, wordt de som veel makkelijker. Je hebt 3 nodig om van 37 naar 40 te gaan, dus splits je 24 in 3 en 21.",
+    "getal1": 37,
+    "getal2": 24,
+    "operation": "+"
+  },
+  {
+    "id": 3,
+    "theme": "1 Optellen met splitsstrategie",
+    "question": "Los op: 59 + 23",
+    "steps": [
+      "Splits 23 in 1 en 22",
+      "59 + 1 = 60",
+      "60 + 22 = 82"
+    ],
+    "options": [
+      "81",
+      "82",
+      "83",
+      "84"
+    ],
+    "correct": 1,
+    "extra_info": "Van 59 naar 60 is maar 1 stapje. Door 23 te splitsen in 1 en 22, kun je eerst naar het ronde getal 60 toe werken.",
+    "getal1": 59,
+    "getal2": 23,
+    "operation": "+"
+  },
+  {
+    "id": 4,
+    "theme": "1 Optellen met splitsstrategie",
+    "question": "Los op: 46 + 18",
+    "steps": [
+      "Splits 18 in 4 en 14",
+      "46 + 4 = 50",
+      "50 + 14 = 64"
+    ],
+    "options": [
+      "62",
+      "63",
+      "64",
+      "65"
+    ],
+    "correct": 2,
+    "extra_info": "46 ligt dicht bij 50. Je hebt 4 nodig om van 46 naar 50 te gaan, dus splits je 18 in 4 en 14.",
+    "getal1": 46,
+    "getal2": 18,
+    "operation": "+"
+  },
+  {
+    "id": 5,
+    "theme": "1 Optellen met splitsstrategie",
+    "question": "Los op: 68 + 17",
+    "steps": [
+      "Splits 17 in 2 en 15",
+      "68 + 2 = 70",
+      "70 + 15 = 85"
+    ],
+    "options": [
+      "84",
+      "85",
+      "86",
+      "87"
+    ],
+    "correct": 1,
+    "extra_info": "68 is dicht bij 70. Door 17 te splitsen in 2 en 15, bereik je eerst het ronde getal 70.",
+    "getal1": 68,
+    "getal2": 17,
+    "operation": "+"
+  },
+  {
+    "id": 6,
+    "theme": "2 Aftrekken met splitsstrategie",
+    "question": "Los op: 43 - 16",
+    "steps": [
+      "Splits 16 in 3 en 13",
+      "43 - 3 = 40",
+      "40 - 13 = 27"
+    ],
+    "options": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "correct": 2,
+    "extra_info": "Bij aftrekken splits je het tweede getal ook strategisch. Van 43 naar 40 is 3 aftrekken, dus splits je 16 in 3 en 13.",
+    "getal1": 43,
+    "getal2": 16,
+    "operation": "-"
+  },
+  {
+    "id": 7,
+    "theme": "2 Aftrekken met splitsstrategie",
+    "question": "Los op: 61 - 25",
+    "steps": [
+      "Splits 25 in 1 en 24",
+      "61 - 1 = 60",
+      "60 - 24 = 36"
+    ],
+    "options": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "correct": 2,
+    "extra_info": "61 is heel dicht bij 60. Door eerst 1 af te trekken kom je bij het ronde getal 60, dan trek je de resterende 24 eraf.",
+    "getal1": 61,
+    "getal2": 25,
+    "operation": "-"
+  },
+  {
+    "id": 8,
+    "theme": "2 Aftrekken met splitsstrategie",
+    "question": "Los op: 52 - 18",
+    "steps": [
+      "Splits 18 in 2 en 16",
+      "52 - 2 = 50",
+      "50 - 16 = 34"
+    ],
+    "options": [
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "correct": 2,
+    "extra_info": "Van 52 naar 50 moet je 2 aftrekken. Daarom splits je 18 in 2 en 16.",
+    "getal1": 52,
+    "getal2": 18,
+    "operation": "-"
+  },
+  {
+    "id": 9,
+    "theme": "2 Aftrekken met splitsstrategie",
+    "question": "Los op: 74 - 27",
+    "steps": [
+      "Splits 27 in 4 en 23",
+      "74 - 4 = 70",
+      "70 - 23 = 47"
+    ],
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correct": 2,
+    "extra_info": "74 naar 70 is 4 aftrekken. Split dus 27 in 4 en 23 om eerst naar het ronde getal te gaan.",
+    "getal1": 74,
+    "getal2": 27,
+    "operation": "-"
+  },
+  {
+    "id": 10,
+    "theme": "2 Aftrekken met splitsstrategie",
+    "question": "Los op: 85 - 38",
+    "steps": [
+      "Splits 38 in 5 en 33",
+      "85 - 5 = 80",
+      "80 - 33 = 47"
+    ],
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correct": 2,
+    "extra_info": "Van 85 naar 80 trek je 5 af. Daarom splits je 38 in 5 en 33.",
+    "getal1": 85,
+    "getal2": 38,
+    "operation": "-"
+  },
+  {
+    "id": 11,
+    "theme": "3 Gemengde oefeningen",
+    "question": "Los op: 29 + 35",
+    "steps": [
+      "Splits 35 in 1 en 34",
+      "29 + 1 = 30",
+      "30 + 34 = 64"
+    ],
+    "options": [
+      "62",
+      "63",
+      "64",
+      "65"
+    ],
+    "correct": 2,
+    "extra_info": "29 is heel dicht bij 30. Een klein stapje van 1 brengt je naar het ronde getal.",
+    "getal1": 29,
+    "getal2": 35,
+    "operation": "+"
+  },
+  {
+    "id": 12,
+    "theme": "3 Gemengde oefeningen",
+    "question": "Los op: 71 - 24",
+    "steps": [
+      "Splits 24 in 1 en 23",
+      "71 - 1 = 70",
+      "70 - 23 = 47"
+    ],
+    "options": [
+      "45",
+      "46",
+      "47",
+      "48"
+    ],
+    "correct": 2,
+    "extra_info": "71 ligt heel dicht bij 70. Door eerst 1 af te trekken, krijg je een makkelijke aftreksom.",
+    "getal1": 71,
+    "getal2": 24,
+    "operation": "-"
+  },
+  {
+    "id": 13,
+    "theme": "3 Gemengde oefeningen",
+    "question": "Los op: 48 + 26",
+    "steps": [
+      "Splits 26 in 2 en 24",
+      "48 + 2 = 50",
+      "50 + 24 = 74"
+    ],
+    "options": [
+      "72",
+      "73",
+      "74",
+      "75"
+    ],
+    "correct": 2,
+    "extra_info": "Van 48 naar 50 is 2 optellen. Split 26 in 2 en 24 om naar het ronde getal te werken.",
+    "getal1": 48,
+    "getal2": 26,
+    "operation": "+"
+  },
+  {
+    "id": 14,
+    "theme": "3 Gemengde oefeningen",
+    "question": "Los op: 63 - 17",
+    "steps": [
+      "Splits 17 in 3 en 14",
+      "63 - 3 = 60",
+      "60 - 14 = 46"
+    ],
+    "options": [
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "correct": 2,
+    "extra_info": "63 naar 60 is 3 aftrekken. Split dus 17 in 3 en 14.",
+    "getal1": 63,
+    "getal2": 17,
+    "operation": "-"
+  },
+  {
+    "id": 15,
+    "theme": "3 Gemengde oefeningen",
+    "question": "Los op: 57 + 28",
+    "steps": [
+      "Splits 28 in 3 en 25",
+      "57 + 3 = 60",
+      "60 + 25 = 85"
+    ],
+    "options": [
+      "83",
+      "84",
+      "85",
+      "86"
+    ],
+    "correct": 2,
+    "extra_info": "57 naar 60 is 3 optellen. Daarom split je 28 in 3 en 25.",
+    "getal1": 57,
+    "getal2": 28,
+    "operation": "+"
+  }
+]

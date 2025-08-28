@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekenen - Splitsstrategie</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        /* Copy the exact same CSS from the main website */
+        :root {
+            --primary-color: #6200EE;
+            --primary-light: #BB86FC;
+            --primary-dark: #3700B3;
+            --secondary-color: #03DAC6;
+            --secondary-dark: #018786;
+            --background-gradient-start: #6200EE;
+            --background-gradient-end: #BB86FC;
+            --surface-color: #FFFFFF;
+            --on-surface-color: #212121;
+            --on-background-color: #FFFFFF;
+            --text-color-dark: var(--on-surface-color);
+            --text-color-medium: #616161;
+            --text-color-light: #B0B0B0;
+            --color-correct: #4CAF50;
+            --color-incorrect: #F44336;
+            --color-info: #2196F3;
+            --shadow-elevation-1: 0 2px 4px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+            --shadow-elevation-2: 0 4px 8px rgba(0, 0, 0, 0.15), 0 2px 5px rgba(0, 0, 0, 0.1);
+            --shadow-elevation-3: 0 6px 12px rgba(0, 0, 0, 0.2), 0 3px 8px rgba(0, 0, 0, 0.15);
+            --border-radius-card: 12px;
+            --border-radius-button: 8px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background: linear-gradient(135deg, var(--background-gradient-start) 0%, var(--background-gradient-end) 100%);
+            min-height: 100vh;
+            color: var(--on-background-color);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: var(--border-radius-card);
+            backdrop-filter: blur(5px);
+            box-shadow: var(--shadow-elevation-2);
+        }
+
+        .header h1 {
+            color: var(--on-background-color);
+            font-size: 2.8em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+            font-weight: 700;
+        }
+
+        .header p {
+            color: rgba(255,255,255,0.9);
+            font-size: 1.2em;
+            font-weight: 300;
+        }
+
+        .subject-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .subject-card {
+            background-color: var(--surface-color);
+            border-radius: var(--border-radius-card);
+            box-shadow: var(--shadow-elevation-1);
+            padding: 30px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 200px;
+            color: var(--text-color-dark);
+        }
+
+        .subject-card:hover {
+            transform: translateY(-8px);
+            box-shadow: var(--shadow-elevation-2);
+        }
+
+        .subject-icon {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            color: var(--primary-color);
+        }
+
+        .subject-card h3 {
+            font-size: 1.6em;
+            margin-bottom: 12px;
+            color: var(--text-color-dark);
+            font-weight: 500;
+        }
+
+        .subject-card p {
+            font-size: 1em;
+            color: var(--text-color-medium);
+            line-height: 1.5;
+            font-weight: 300;
+        }
+
+        .quiz-container {
+            background-color: var(--surface-color);
+            border-radius: var(--border-radius-card);
+            box-shadow: var(--shadow-elevation-2);
+            padding: 40px;
+            margin-top: 20px;
+            color: var(--text-color-dark);
+        }
+
+        .quiz-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .quiz-header h2 {
+            font-size: 2.2em;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        .quiz-progress {
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            height: 12px;
+            overflow: hidden;
+            margin-bottom: 15px;
+        }
+
+        .quiz-progress-bar {
+            height: 100%;
+            width: 0%;
+            background-color: var(--secondary-color);
+            border-radius: 10px;
+            transition: width 0.4s ease-in-out;
+        }
+
+        #questionCounter {
+            font-size: 1em;
+            color: var(--text-color-medium);
+            font-weight: 400;
+        }
+
+        .question-container {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .math-problem {
+            background-color: #f5f5f5;
+            border-radius: var(--border-radius-card);
+            padding: 25px;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 2em;
+            font-weight: 500;
+            color: var(--text-color-dark);
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .question-text {
+            font-size: 1.5em;
+            color: var(--text-color-dark);
+            margin-bottom: 30px;
+            line-height: 1.6;
+            font-weight: 400;
+        }
+
+        .options-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        .option {
+            background-color: #f8f8f8;
+            border: 2px solid #e0e0e0;
+            border-radius: var(--border-radius-button);
+            padding: 18px 25px;
+            cursor: pointer;
+            text-align: center;
+            transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease;
+            font-size: 1.4em;
+            font-weight: 500;
+            color: var(--text-color-dark);
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .option:hover {
+            background-color: #eff0f0;
+            border-color: var(--primary-light);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .option.selected {
+            background-color: #e3f2fd;
+            border-color: var(--primary-color);
+            color: var(--text-color-dark);
+            box-shadow: var(--shadow-elevation-1);
+            transform: translateY(0);
+        }
+
+        .option.correct {
+            background-color: #e8f5e9;
+            border-color: var(--color-correct);
+            color: var(--color-correct);
+            font-weight: bold;
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .option.incorrect {
+            background-color: #ffebee;
+            border-color: var(--color-incorrect);
+            color: var(--color-incorrect);
+            font-weight: bold;
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .quiz-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 40px;
+        }
+
+        .btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 14px 30px;
+            border-radius: var(--border-radius-button);
+            cursor: pointer;
+            font-size: 1.1em;
+            transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 500;
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .btn:hover {
+            background-color: var(--primary-dark);
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-elevation-2);
+        }
+
+        .btn-secondary {
+            background-color: #e0e0e0;
+            color: var(--text-color-medium);
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        .btn-secondary:hover {
+            background-color: #c0c0c0;
+            color: var(--text-color-dark);
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-elevation-2);
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .results-container {
+            background-color: var(--surface-color);
+            border-radius: var(--border-radius-card);
+            box-shadow: var(--shadow-elevation-2);
+            padding: 50px;
+            margin-top: 20px;
+            text-align: center;
+            color: var(--text-color-dark);
+        }
+
+        .results-score {
+            font-size: 3.5em;
+            color: var(--secondary-color);
+            margin-bottom: 25px;
+            font-weight: 700;
+        }
+
+        .results-message {
+            font-size: 1.6em;
+            color: var(--text-color-dark);
+            margin-bottom: 40px;
+            font-weight: 400;
+        }
+
+        #feedbackSection {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: var(--border-radius-card);
+            text-align: left;
+            box-shadow: var(--shadow-elevation-1);
+        }
+
+        #feedbackSection.correct {
+            background-color: #e8f5e9;
+            border-left: 5px solid var(--color-correct);
+            color: var(--text-color-dark);
+        }
+
+        #feedbackSection.incorrect {
+            background-color: #ffebee;
+            border-left: 5px solid var(--color-incorrect);
+            color: var(--text-color-dark);
+        }
+
+        #feedbackSection h4 {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            color: var(--primary-dark);
+        }
+
+        #feedbackSection p {
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+
+        .steps-container {
+            background-color: #f9f9f9;
+            border-radius: var(--border-radius-card);
+            padding: 20px;
+            margin: 15px 0;
+            border-left: 4px solid var(--secondary-color);
+        }
+
+        .step {
+            font-size: 1.1em;
+            margin-bottom: 8px;
+            padding: 5px 0;
+            color: var(--text-color-dark);
+        }
+
+        .step:last-child {
+            margin-bottom: 0;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2.2em;
+            }
+
+            .subject-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .options-container {
+                grid-template-columns: 1fr;
+            }
+
+            .quiz-container {
+                padding: 25px;
+            }
+
+            .math-problem {
+                font-size: 1.6em;
+            }
+
+            .question-text {
+                font-size: 1.3em;
+            }
+
+            .option {
+                padding: 15px 20px;
+                font-size: 1.2em;
+            }
+
+            .btn {
+                padding: 12px 25px;
+                font-size: 1em;
+            }
+
+            .quiz-controls {
+                flex-direction: column;
+                gap: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔢 Rekenen met de Splitsstrategie</h1>
+            <p>Leer rekenen zoals een echte rekenmeester!</p>
+        </div>
+
+        <div id="landingPage">
+            <div class="subject-grid">
+                <div class="subject-card" onclick="startQuizWithTheme('1 Optellen met splitsstrategie')">
+                    <div class="subject-icon">➕</div>
+                    <h3>Optellen</h3>
+                    <p>Leer optellen met de splitsstrategie</p>
+                    <p style="color: var(--primary-color); font-weight: bold; margin-top: 5px;" id="highscore-plus">Highscore: 0</p>
+                </div>
+                <div class="subject-card" onclick="startQuizWithTheme('2 Aftrekken met splitsstrategie')">
+                    <div class="subject-icon">➖</div>
+                    <h3>Aftrekken</h3>
+                    <p>Leer aftrekken met de splitsstrategie</p>
+                    <p style="color: var(--primary-color); font-weight: bold; margin-top: 5px;" id="highscore-minus">Highscore: 0</p>
+                </div>
+                <div class="subject-card" onclick="startQuizWithTheme('3 Gemengde oefeningen')">
+                    <div class="subject-icon">🔄</div>
+                    <h3>Gemengde Oefeningen</h3>
+                    <p>Optellen en aftrekken door elkaar</p>
+                    <p style="color: var(--primary-color); font-weight: bold; margin-top: 5px;" id="highscore-mixed">Highscore: 0</p>
+                </div>
+                <div class="subject-card" onclick="startQuizWithTheme(null)">
+                    <div class="subject-icon">🎯</div>
+                    <h3>Alle Oefeningen</h3>
+                    <p>Test al je rekenvaardigheden</p>
+                    <p style="color: var(--primary-color); font-weight: bold; margin-top: 5px;" id="highscore-all">Highscore: 0</p>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 30px;">
+                <a href="../index.html" class="btn btn-secondary">
+                    <i class="material-icons">arrow_back</i> Terug naar hoofdmenu
+                </a>
+            </div>
+        </div>
+
+        <div id="quizPage" class="quiz-container" style="display: none;">
+            <div class="quiz-header">
+                <h2 id="quizTitle">Rekenen Quiz</h2>
+                <div class="quiz-progress">
+                    <div class="quiz-progress-bar" id="progressBar"></div>
+                </div>
+                <div id="questionCounter">Vraag 1 van 1</div>
+            </div>
+
+            <div class="question-container">
+                <div class="math-problem" id="mathProblem"></div>
+                <div class="question-text" id="questionText"></div>
+                <div id="optionsContainer" class="options-container"></div>
+            </div>
+
+            <div id="feedbackSection" class="hidden">
+                <h4 id="feedbackTitle"></h4>
+                <p id="feedbackMessage"></p>
+                <div id="stepsContainer" class="steps-container hidden">
+                    <h4>Zo los je het stap voor stap op:</h4>
+                    <div id="stepsList"></div>
+                </div>
+                <p id="extraInfoDisplay" class="hidden"></p>
+            </div>
+
+            <div class="quiz-controls">
+                <button class="btn btn-secondary" onclick="goToLanding()">
+                    <i class="material-icons">arrow_back</i> Terug
+                </button>
+                <div>
+                    <button class="btn" id="submitBtn" onclick="submitAnswer()">
+                        <i class="material-icons">check_circle_outline</i>
